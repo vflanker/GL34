@@ -34,63 +34,9 @@ $RECYCLE.BIN/
 *.msp
 *.lnk
 
-# SVN
-.svn
-
-# SublimeText
-*.tmlanguage.cache
-*.tmPreferences.cache
-*.stTheme.cache
-*.sublime-workspace
-
-# IntelliJ
-*.iml
-*.ipr
-*.iws
-.idea/
-out/
-
 # VisualStudioCode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-# vim
-[._]*.s[a-v][a-z]
-[._]*.sw[a-p]
-[._]s[a-rt-v][a-z]
-[._]ss[a-gi-z]
-[._]sw[a-p]
-Session.vim
-.netrwhist
-tags
-[._]*.un~
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Scrapy stuff:
-.scrapy
