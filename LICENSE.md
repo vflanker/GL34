@@ -1,0 +1,1 @@
+License MIT, see [https://laucyun.com/license/mit](https://laucyun.com/license/mit) for more details.
