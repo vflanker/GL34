@@ -1,0 +1,25 @@
+Id authentication         : 0;161637816
+Package authentication  : Kerberos
+primary User       : administrator
+Domain authentication  : ENOCHODMZ
+	msv1_0 :	n.s. (PrimaryCredentials KO)
+	kerberos :	$1lver1ng
+	ssp :	
+	wdigest :	$1lver1ng
+	tspkg :	n.t. (LUID KO)
+	
+	
+Id authentication         : 0;314083813
+Package authentication  : Kerberos
+primary User       : mazhark
+Domain authentication  : ENOCHO
+	msv1_0 :	n.e. (Reading KIWI_MSV1_0_PRIMARY_CREDENTIALS KO)
+	kerberos :	july@2015
+	ssp :	
+	wdigest :	july@2015
+	tspkg :	n.t. (LUID KO)
+	
+	
+	/user:enocho\xenappsrv /pwd:!nt3l$2012
+	/user:enocho\vmjrsekar /pwd:Nokia200$ 
+	/user:enocho\vmjrsekar /pwd:system700$

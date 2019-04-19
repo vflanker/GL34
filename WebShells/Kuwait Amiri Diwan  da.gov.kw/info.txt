@@ -1,0 +1,14 @@
+http://mail.da.gov.kw/admin/
+
+exchangeadmin@da-admin.gov.kw
+P@ssw0rd.123
+A-ADMIN
+https://mail.da-admin.gov.kw/owa/auth/Current/scripts/premium/img.aspx;Th!sN0tF0rFAN
+
+DAENG
+http://62.215.100.108/dist/img/credit/paypal.aspx 
+* Username : vcenteradmin
+* Domain   : DA-ADMIN
+* Password : D@.Vc3nt3r@dm1n
+
+	 

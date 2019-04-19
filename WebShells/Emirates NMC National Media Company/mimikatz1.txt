@@ -1,0 +1,6480 @@
+c:\windows\system32\inetsrv>C:\Users\Public\Libraries\Recorded\o64.exe 2>&1
+ERROR kuhl_m_sekurlsa_all ; RtlAdjustPrivilege (20) c0000061
+
+Authentication Id : 0 ; 1594495630 (00000000:5f0a128e)
+Session           : NetworkCleartext from 0
+User Name         : maljunaibi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:29:46 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4744
+	msv :	
+	 [00000003] Primary
+	 * Username : maljunaibi
+	 * Domain   : NMC
+	 * NTLM     : 25684c46b4f4459fdfede299e2187f56
+	 * SHA1     : e0aee2ba060a55119b5ec0dddf60588bb20188ff
+	tspkg :	
+	wdigest :	
+	 * Username : maljunaibi
+	 * Domain   : NMC
+	 * Password : uae@Uea15
+	kerberos :	
+	 * Username : maljunaibi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1594434103 (00000000:5f092237)
+Session           : NetworkCleartext from 0
+User Name         : HealthMailboxfe8f023
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:28:59 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6636
+	msv :	
+	 [00000003] Primary
+	 * Username : HealthMailboxfe8f023
+	 * Domain   : NMC
+	 * NTLM     : c9c511217a36d05307a99e53494f8a9d
+	 * SHA1     : 166d2b4d50be9ce3b5bba541821fffdf5c42feb0
+	tspkg :	
+	wdigest :	
+	 * Username : HealthMailboxfe8f023
+	 * Domain   : NMC
+	 * Password : QhFIzETvl|7$CH67;cXU_KR$@CuPh^rCeO{:&+:/*NedeX%VLB:XTu{mPY$?Ee*ANbvXv|R4^)>&oRtV(G5I9=0*;RMn9h(V:bJ(0OYL{z)OEyd)k;a2Axz>-q*FZBPv
+	kerberos :	
+	 * Username : HealthMailboxfe8f023
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1592151034 (00000000:5ee64bfa)
+Session           : NetworkCleartext from 0
+User Name         : mahra.almenhali
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:08:22 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6959
+	msv :	
+	 [00000003] Primary
+	 * Username : Mahra.Almenhali
+	 * Domain   : NMC
+	 * NTLM     : c9f3024c637a3bd48cd6066be7ab1b19
+	 * SHA1     : 1a2b3882a3864c94e883b5aada95492e75ffc0d7
+	tspkg :	
+	wdigest :	
+	 * Username : Mahra.Almenhali
+	 * Domain   : NMC
+	 * Password : Object123$
+	kerberos :	
+	 * Username : mahra.almenhali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1588743676 (00000000:5eb24dfc)
+Session           : NetworkCleartext from 0
+User Name         : aalhemiri
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:37:59 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4434
+	msv :	
+	 [00000003] Primary
+	 * Username : aalhemiri
+	 * Domain   : NMC
+	 * NTLM     : 8d8a476e2a43c403f73634f3611d00d3
+	 * SHA1     : 0c0a812b07937f50403d18fc52cadba3c21f15a6
+	tspkg :	
+	wdigest :	
+	 * Username : aalhemiri
+	 * Domain   : NMC
+	 * Password : A#4H#1A#4M#5
+	kerberos :	
+	 * Username : aalhemiri
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1575441310 (00000000:5de7539e)
+Session           : NetworkCleartext from 0
+User Name         : sjunaibi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:37:57 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4695
+	msv :	
+	 [00000003] Primary
+	 * Username : sjunaibi
+	 * Domain   : NMC
+	 * NTLM     : d6ab2cbb13f10e4d5bd975955b72dfb8
+	 * SHA1     : 7a1857101f27f2bc8f1471fb0d06a9432b94c92a
+	tspkg :	
+	wdigest :	
+	 * Username : sjunaibi
+	 * Domain   : NMC
+	 * Password : Saoudali8668
+	kerberos :	
+	 * Username : sjunaibi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1564312723 (00000000:5d3d8493)
+Session           : NetworkCleartext from 0
+User Name         : nadeem.ahmed
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:52:09 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8206
+	msv :	
+	 [00000003] Primary
+	 * Username : nadeem.ahmed
+	 * Domain   : NMC
+	 * NTLM     : b4b0fcd9ee83816b5ce447d0f9b5ff33
+	 * SHA1     : 086c8c2a2bba295ae21e407aceaaaa4edc672bb7
+	tspkg :	
+	wdigest :	
+	 * Username : nadeem.ahmed
+	 * Domain   : NMC
+	 * Password : Godzilla@100
+	kerberos :	
+	 * Username : nadeem.ahmed
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1556829151 (00000000:5ccb53df)
+Session           : NetworkCleartext from 0
+User Name         : amakhmary
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 5:41:48 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4364
+	msv :	
+	 [00000003] Primary
+	 * Username : amakhmary
+	 * Domain   : NMC
+	 * NTLM     : 1153c2dff6c235d7c2b3e796ad7c194e
+	 * SHA1     : fbc4ca8f6cc9d6774e70f294fe5c8ecb71845eac
+	tspkg :	
+	wdigest :	
+	 * Username : amakhmary
+	 * Domain   : NMC
+	 * Password : nmcuae@300190
+	kerberos :	
+	 * Username : amakhmary
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1139154271 (00000000:43e61d5f)
+Session           : NetworkCleartext from 0
+User Name         : dgoffice
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 1:14:43 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7027
+	msv :	
+	 [00000003] Primary
+	 * Username : dgoffice
+	 * Domain   : NMC
+	 * NTLM     : c2b0fa62a84ebdb0310d0b7c48fec2a1
+	 * SHA1     : ede5278384b5257bbbcd8eaff265281f7233f265
+	tspkg :	
+	wdigest :	
+	 * Username : dgoffice
+	 * Domain   : NMC
+	 * Password : VIP@2017
+	kerberos :	
+	 * Username : dgoffice
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1107048289 (00000000:41fc3761)
+Session           : NetworkCleartext from 0
+User Name         : maljunaibi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 9:58:57 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4744
+	msv :	
+	 [00000003] Primary
+	 * Username : maljunaibi
+	 * Domain   : NMC
+	 * NTLM     : 25684c46b4f4459fdfede299e2187f56
+	 * SHA1     : e0aee2ba060a55119b5ec0dddf60588bb20188ff
+	tspkg :	
+	wdigest :	
+	 * Username : maljunaibi
+	 * Domain   : NMC
+	 * Password : uae@Uea15
+	kerberos :	
+	 * Username : maljunaibi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803367 (00000000:38f866e7)
+Session           : NetworkCleartext from 0
+User Name         : mohammad.okour
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5483
+	msv :	
+	 [00000003] Primary
+	 * Username : mohammad.okour
+	 * Domain   : NMC
+	 * NTLM     : 53c05162349488e1d4717bcd5afec5db
+	 * SHA1     : 2c92a096e2ff08c1e5808a2f5ad80d8e2c4138b4
+	tspkg :	
+	wdigest :	
+	 * Username : mohammad.okour
+	 * Domain   : NMC
+	 * Password : Lamar@2008
+	kerberos :	
+	 * Username : mohammad.okour
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955729600 (00000000:38f746c0)
+Session           : NetworkCleartext from 0
+User Name         : nour.salman
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:17 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6924
+	msv :	
+	 [00000003] Primary
+	 * Username : Nour.salman
+	 * Domain   : NMC
+	 * NTLM     : 6f0dcdd2d46012b4c0bc8098e3aaf47b
+	 * SHA1     : 8195e683dd0774ce3dd9768ca765c28fc018128e
+	tspkg :	
+	wdigest :	
+	 * Username : Nour.salman
+	 * Domain   : NMC
+	 * Password : 22Oceans85
+	kerberos :	
+	 * Username : nour.salman
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1590578696 (00000000:5ece4e08)
+Session           : NetworkCleartext from 0
+User Name         : hosam.moustafa
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:54:00 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5476
+	msv :	
+	 [00000003] Primary
+	 * Username : hosam.moustafa
+	 * Domain   : NMC
+	 * NTLM     : fb7c1319a79e402a39d3247994d93f88
+	 * SHA1     : 3c577dc7afb40befb14236381aa99d55cb6a09b6
+	tspkg :	
+	wdigest :	
+	 * Username : hosam.moustafa
+	 * Domain   : NMC
+	 * Password : P@sw0rd1
+	kerberos :	
+	 * Username : hosam.moustafa
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1106061707 (00000000:41ed298b)
+Session           : NetworkCleartext from 0
+User Name         : zahra.alareefi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 9:51:13 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5427
+	msv :	
+	 [00000003] Primary
+	 * Username : Zahra.Alareefi
+	 * Domain   : NMC
+	 * NTLM     : e386d2be922d16347df40c7037c70f5d
+	 * SHA1     : 875f790f43d8336fa51ed815f745c98df8245c1f
+	tspkg :	
+	wdigest :	
+	 * Username : Zahra.Alareefi
+	 * Domain   : NMC
+	 * Password : Wam@9876
+	kerberos :	
+	 * Username : zahra.alareefi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803890 (00000000:38f868f2)
+Session           : NetworkCleartext from 0
+User Name         : k.momison
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6947
+	msv :	
+	 [00000003] Primary
+	 * Username : k.momison
+	 * Domain   : NMC
+	 * NTLM     : 289f636bea4b067ec7c4028701c6b004
+	 * SHA1     : adab50829adcc952c05e6695c08b911affa72e39
+	tspkg :	
+	wdigest :	
+	 * Username : k.momison
+	 * Domain   : NMC
+	 * Password : 18@volcom7
+	kerberos :	
+	 * Username : k.momison
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803284 (00000000:38f86694)
+Session           : NetworkCleartext from 0
+User Name         : mnajar
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4843
+	msv :	
+	 [00000003] Primary
+	 * Username : mnajar
+	 * Domain   : NMC
+	 * NTLM     : 593eee20a83fa4d8fe6e37218495011e
+	 * SHA1     : c0e73edba0b0c432ac8a8f25e6bbb904ba4a6510
+	tspkg :	
+	wdigest :	
+	 * Username : mnajar
+	 * Domain   : NMC
+	 * Password : Jeep1310
+	kerberos :	
+	 * Username : mnajar
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 14619620 (00000000:00df13e4)
+Session           : Interactive from 2
+User Name         : DWM-2
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 1/4/2018 1:51:46 PM
+SID               : S-1-5-90-2
+	msv :	
+	 [00000003] Primary
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * NTLM     : f4ef270dbab3b7983c55c1f6716dc465
+	 * SHA1     : 4f77188c7388289fb1f8bb2e003e362562ca4915
+	tspkg :	
+	wdigest :	
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * Password : 52 5e 4a bd e8 2d 55 42 fa 36 d1 a7 dc 6d 6e 88 88 fe cf 2b ed af c7 24 e6 00 59 92 50 3f bc df 17 3b 70 99 05 84 7b 77 7c 31 5e 9f 52 48 fc c8 f3 2e 28 8d d9 0b 4d 21 30 d7 e1 fe 34 c0 51 4a 17 2b 29 61 84 5b be 52 71 ca 20 39 c6 bb c4 06 d0 a9 a3 56 55 19 4d fd 99 2c ff 55 96 e4 f9 39 7e a8 8a 1b 16 ff 58 cf e0 23 d1 d4 81 88 6e 5c af 66 1e c6 c3 cb 54 47 fe 98 8b 61 20 49 e2 50 1a d7 17 d1 9b 48 ed 1d 84 9f 30 67 5a 67 12 99 42 db 9c 0f 67 83 9c 8e 2a 31 3a f9 02 d8 57 9a b1 88 cf e0 f4 78 7a c8 21 94 57 84 88 ab d2 44 1c 01 e8 d7 2e 1a e1 10 5a 43 47 de b4 a3 04 c0 87 d9 14 3a 6d bf 88 ca 52 67 b5 1b c1 f6 88 eb 42 e1 b4 4e 05 25 95 e8 01 6d 86 d0 31 23 67 2b 55 7c 90 bc cb 81 fe 5a 86 ff 67 22 59 dc f0 5a 
+	kerberos :	
+	 * Username : AUHMBXP01$
+	 * Domain   : nmc.local
+	 * Password : 52 5e 4a bd e8 2d 55 42 fa 36 d1 a7 dc 6d 6e 88 88 fe cf 2b ed af c7 24 e6 00 59 92 50 3f bc df 17 3b 70 99 05 84 7b 77 7c 31 5e 9f 52 48 fc c8 f3 2e 28 8d d9 0b 4d 21 30 d7 e1 fe 34 c0 51 4a 17 2b 29 61 84 5b be 52 71 ca 20 39 c6 bb c4 06 d0 a9 a3 56 55 19 4d fd 99 2c ff 55 96 e4 f9 39 7e a8 8a 1b 16 ff 58 cf e0 23 d1 d4 81 88 6e 5c af 66 1e c6 c3 cb 54 47 fe 98 8b 61 20 49 e2 50 1a d7 17 d1 9b 48 ed 1d 84 9f 30 67 5a 67 12 99 42 db 9c 0f 67 83 9c 8e 2a 31 3a f9 02 d8 57 9a b1 88 cf e0 f4 78 7a c8 21 94 57 84 88 ab d2 44 1c 01 e8 d7 2e 1a e1 10 5a 43 47 de b4 a3 04 c0 87 d9 14 3a 6d bf 88 ca 52 67 b5 1b c1 f6 88 eb 42 e1 b4 4e 05 25 95 e8 01 6d 86 d0 31 23 67 2b 55 7c 90 bc cb 81 fe 5a 86 ff 67 22 59 dc f0 5a 
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 995 (00000000:000003e3)
+Session           : Service from 0
+User Name         : IUSR
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 1/4/2018 12:49:39 PM
+SID               : S-1-5-17
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1593260883 (00000000:5ef73b53)
+Session           : NetworkCleartext from 0
+User Name         : nour.salman
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:18:32 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6924
+	msv :	
+	 [00000003] Primary
+	 * Username : Nour.salman
+	 * Domain   : NMC
+	 * NTLM     : 6f0dcdd2d46012b4c0bc8098e3aaf47b
+	 * SHA1     : 8195e683dd0774ce3dd9768ca765c28fc018128e
+	tspkg :	
+	wdigest :	
+	 * Username : Nour.salman
+	 * Domain   : NMC
+	 * Password : 22Oceans85
+	kerberos :	
+	 * Username : nour.salman
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1574571483 (00000000:5dda0ddb)
+Session           : NetworkCleartext from 0
+User Name         : hsaif
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:29:19 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4765
+	msv :	
+	 [00000003] Primary
+	 * Username : hsaif
+	 * Domain   : NMC
+	 * NTLM     : b3cb7acce8fb053102d34f837d56bada
+	 * SHA1     : ce63c70d85058afdcc797d82086f141f321cbac0
+	tspkg :	
+	wdigest :	
+	 * Username : hsaif
+	 * Domain   : NMC
+	 * Password : cid11@80
+	kerberos :	
+	 * Username : hsaif
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1558056714 (00000000:5cde0f0a)
+Session           : NetworkCleartext from 0
+User Name         : khadija.alb
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 5:52:36 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5231
+	msv :	
+	 [00000003] Primary
+	 * Username : khadija.alb
+	 * Domain   : NMC
+	 * NTLM     : ad42cf3114bba40eb74dda3289836d9b
+	 * SHA1     : db4748e26261d1af6ac85a72fadfbc74aab96dc0
+	tspkg :	
+	wdigest :	
+	 * Username : khadija.alb
+	 * Domain   : NMC
+	 * Password : KH.8008@Rs
+	kerberos :	
+	 * Username : khadija.alb
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1548384006 (00000000:5c4a7706)
+Session           : NetworkCleartext from 0
+User Name         : salshehhi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 4:26:39 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4893
+	msv :	
+	 [00000003] Primary
+	 * Username : salshehhi
+	 * Domain   : NMC
+	 * NTLM     : c2c2468f55fd669577c1377cca4740de
+	 * SHA1     : a0c05fadc3e3ffe639bb5a224fbf4b835c76c4c3
+	tspkg :	
+	wdigest :	
+	 * Username : salshehhi
+	 * Domain   : NMC
+	 * Password : uae@nMc15
+	kerberos :	
+	 * Username : salshehhi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1540555977 (00000000:5bd304c9)
+Session           : NetworkCleartext from 0
+User Name         : a.abidi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 3:14:28 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5194
+	msv :	
+	 [00000003] Primary
+	 * Username : a.abidi
+	 * Domain   : NMC
+	 * NTLM     : 6cc52e3c70b6ccfbd13afe411f9d637a
+	 * SHA1     : e1c8be5f014f56f046a49e6c8b3a574c47ccc008
+	tspkg :	
+	wdigest :	
+	 * Username : a.abidi
+	 * Domain   : NMC
+	 * Password : amaim@79
+	kerberos :	
+	 * Username : a.abidi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1531320255 (00000000:5b4617bf)
+Session           : NetworkCleartext from 0
+User Name         : halrayes
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 1:50:20 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4722
+	msv :	
+	 [00000003] Primary
+	 * Username : halrayes
+	 * Domain   : NMC
+	 * NTLM     : 34655e0dd5a64f466e4a531c3c3b9167
+	 * SHA1     : 4b05a57d868145feb659ab40c982024d9855fadf
+	tspkg :	
+	wdigest :	
+	 * Username : halrayes
+	 * Domain   : NMC
+	 * Password : Hud@6666
+	kerberos :	
+	 * Username : halrayes
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1495271247 (00000000:5920074f)
+Session           : NetworkCleartext from 0
+User Name         : mbadr
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 12:15:26 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4794
+	msv :	
+	 [00000003] Primary
+	 * Username : Mbadr
+	 * Domain   : NMC
+	 * NTLM     : 95e7324894316169e2532d3b759f61b2
+	 * SHA1     : aa70f5d30df5996b5fe8fb74fc25c7a807426570
+	tspkg :	
+	wdigest :	
+	 * Username : Mbadr
+	 * Domain   : NMC
+	 * Password : daRsh25729720daRsh
+	kerberos :	
+	 * Username : mbadr
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1405550073 (00000000:53c6fdf9)
+Session           : NetworkCleartext from 0
+User Name         : malshhadat
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 10:46:21 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4388
+	msv :	
+	 [00000003] Primary
+	 * Username : malshhadat
+	 * Domain   : NMC
+	 * NTLM     : ae5d6a86a9e71c55278be6a2b0ed8fbe
+	 * SHA1     : 4249d57280fc1f2315e6d47e93ccb49501c42e85
+	tspkg :	
+	wdigest :	
+	 * Username : malshhadat
+	 * Domain   : NMC
+	 * Password : hglvh]aa16622
+	kerberos :	
+	 * Username : malshhadat
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 9200484 (00000000:008c6364)
+Session           : NetworkCleartext from 0
+User Name         : ikatan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/4/2018 1:15:11 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4819
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : ff505d7872652f36cc17b541bf61e2e7
+	 * SHA1     : 
+	 * RootKey  : da39cf18bd70119bdef21119a56dbea3177c4548
+	 [00000003] Primary
+	 * Username : ikatan
+	 * Domain   : NMC
+	 * NTLM     : ff505d7872652f36cc17b541bf61e2e7
+	 * SHA1     : da39cf18bd70119bdef21119a56dbea3177c4548
+	tspkg :	
+	wdigest :	
+	 * Username : ikatan
+	 * Domain   : NMC
+	 * Password : Uae_2017
+	kerberos :	
+	 * Username : ikatan
+	 * Domain   : nmc.local
+	 * Password : Uae_2017
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1934430 (00000000:001d845e)
+Session           : NetworkCleartext from 0
+User Name         : CLIUSR
+Domain            : AUHMBXP01
+Logon Server      : AUHMBXP01
+Logon Time        : 1/4/2018 12:50:21 PM
+SID               : S-1-5-21-3990847282-2891039382-1157708957-1003
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 37d956c5399233f370b136e65304bf86
+	 * SHA1     : 
+	 * RootKey  : 1b834f1b1c6f841e0de5ecdf91e6dc64f5eed27b
+	 [00000003] Primary
+	 * Username : CLIUSR
+	 * Domain   : AUHMBXP01
+	 * NTLM     : c95851db149017a5cdfc730ba3b9641d
+	 * SHA1     : 17ddfdb79c5a32a3cb406b614905de71eff74c90
+	tspkg :	
+	wdigest :	
+	 * Username : CLIUSR
+	 * Domain   : AUHMBXP01
+	 * Password : `za2lZ5t4%e/\|
+	kerberos :	
+	 * Username : CLIUSR
+	 * Domain   : AUHMBXP01
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1594870384 (00000000:5f0fca70)
+Session           : NetworkCleartext from 0
+User Name         : eali
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:33:18 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4981
+	msv :	
+	 [00000003] Primary
+	 * Username : eali
+	 * Domain   : NMC
+	 * NTLM     : e4852ca019c3e617c10ecce1e1861720
+	 * SHA1     : 707fd258bafb3756dce52ab7af85ffe8ffeebbf6
+	tspkg :	
+	wdigest :	
+	 * Username : eali
+	 * Domain   : NMC
+	 * Password : Dani@@2015
+	kerberos :	
+	 * Username : eali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1581447001 (00000000:5e42f759)
+Session           : NetworkCleartext from 0
+User Name         : l.almakhmari
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:28:14 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5193
+	msv :	
+	 [00000003] Primary
+	 * Username : l.almakhmari
+	 * Domain   : NMC
+	 * NTLM     : 1f3825a99171da8f3a92df3aad2a6c93
+	 * SHA1     : 3d9ad0c0f4f5cdb223911eff22ee71fde9c4edbd
+	tspkg :	
+	wdigest :	
+	 * Username : l.almakhmari
+	 * Domain   : NMC
+	 * Password : nmc@@123456
+	kerberos :	
+	 * Username : l.almakhmari
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1579343323 (00000000:5e22dddb)
+Session           : NetworkCleartext from 0
+User Name         : nasser
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:10:34 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4738
+	msv :	
+	 [00000003] Primary
+	 * Username : nasser
+	 * Domain   : NMC
+	 * NTLM     : c599a560ccc9cf2ebd9734bef2c2f901
+	 * SHA1     : b441e23fd8377a40f3901b951088140ee693fc04
+	tspkg :	
+	wdigest :	
+	 * Username : nasser
+	 * Domain   : NMC
+	 * Password : N824311@1913Nn
+	kerberos :	
+	 * Username : nasser
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1575325531 (00000000:5de58f5b)
+Session           : NetworkCleartext from 0
+User Name         : suggestions
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:36:16 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4730
+	msv :	
+	 [00000003] Primary
+	 * Username : Suggestions
+	 * Domain   : NMC
+	 * NTLM     : 712ee1cd196ccf6e0999c4a4ba7e3e61
+	 * SHA1     : 4db5bb2a601e292aab2751ddc0318f2083e6c56b
+	tspkg :	
+	wdigest :	
+	 * Username : Suggestions
+	 * Domain   : NMC
+	 * Password : Idea@2016
+	kerberos :	
+	 * Username : suggestions
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1571073382 (00000000:5da4ad66)
+Session           : NetworkCleartext from 0
+User Name         : buthaina
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:54:28 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5162
+	msv :	
+	 [00000003] Primary
+	 * Username : Buthaina
+	 * Domain   : NMC
+	 * NTLM     : 7b14161b427b06bc76dd09f210336301
+	 * SHA1     : 820cd18b359bb134de381ec7a46f17c6a3baef95
+	tspkg :	
+	wdigest :	
+	 * Username : Buthaina
+	 * Domain   : NMC
+	 * Password : abmfn@3030
+	kerberos :	
+	 * Username : buthaina
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1569104296 (00000000:5d86a1a8)
+Session           : NetworkCleartext from 0
+User Name         : sayah
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:36:16 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4909
+	msv :	
+	 [00000003] Primary
+	 * Username : sayah
+	 * Domain   : NMC
+	 * NTLM     : 653ef66c0603810244710dcd457982e4
+	 * SHA1     : 6a1976fbb1a14a28b88c5219e805297d366e596e
+	tspkg :	
+	wdigest :	
+	 * Username : sayah
+	 * Domain   : NMC
+	 * Password : hmad@1881
+	kerberos :	
+	 * Username : sayah
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1552959688 (00000000:5c9048c8)
+Session           : NetworkCleartext from 0
+User Name         : aswaidi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 5:07:32 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5059
+	msv :	
+	 [00000003] Primary
+	 * Username : aswaidi
+	 * Domain   : NMC
+	 * NTLM     : fd695a67b897f2eea10e3cd59a44ca80
+	 * SHA1     : 22057cd852608cb699dd6ade0552d519ee3409ff
+	tspkg :	
+	wdigest :	
+	 * Username : aswaidi
+	 * Domain   : NMC
+	 * Password : @iSha2013
+	kerberos :	
+	 * Username : aswaidi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1551625684 (00000000:5c7bedd4)
+Session           : NetworkCleartext from 0
+User Name         : msuwaira
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 4:55:56 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4760
+	msv :	
+	 [00000003] Primary
+	 * Username : msuwaira
+	 * Domain   : NMC
+	 * NTLM     : 0ebade7fb96098cffded00243c1e8e0c
+	 * SHA1     : 879dcd57cb7c867cce8e35a5518babffce3e71cd
+	tspkg :	
+	wdigest :	
+	 * Username : msuwaira
+	 * Domain   : NMC
+	 * Password : Ma@175175
+	kerberos :	
+	 * Username : msuwaira
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1543081096 (00000000:5bf98c88)
+Session           : NetworkCleartext from 0
+User Name         : jabushedeq
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 3:37:59 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4678
+	msv :	
+	 [00000003] Primary
+	 * Username : jabushedeq
+	 * Domain   : NMC
+	 * NTLM     : 863d258f347791831fbb1add626772c4
+	 * SHA1     : 67a36ad558eb8252476585c266d2d4892e0652ed
+	tspkg :	
+	wdigest :	
+	 * Username : jabushedeq
+	 * Domain   : NMC
+	 * Password : ab@ab@12
+	kerberos :	
+	 * Username : jabushedeq
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1473581455 (00000000:57d5118f)
+Session           : NetworkCleartext from 0
+User Name         : media.ed
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:09:09 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5378
+	msv :	
+	 [00000003] Primary
+	 * Username : media.ed
+	 * Domain   : NMC
+	 * NTLM     : 24a51805ac7fb8f0bdb901148bf5112e
+	 * SHA1     : ed52a2a401c5d887cceab8e503e8fc6168e2a10d
+	tspkg :	
+	wdigest :	
+	 * Username : media.ed
+	 * Domain   : NMC
+	 * Password : NMC@ed17
+	kerberos :	
+	 * Username : media.ed
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1139154334 (00000000:43e61d9e)
+Session           : NetworkCleartext from 0
+User Name         : dgoffice
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 1:14:43 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7027
+	msv :	
+	 [00000003] Primary
+	 * Username : dgoffice
+	 * Domain   : NMC
+	 * NTLM     : c2b0fa62a84ebdb0310d0b7c48fec2a1
+	 * SHA1     : ede5278384b5257bbbcd8eaff265281f7233f265
+	tspkg :	
+	wdigest :	
+	 * Username : dgoffice
+	 * Domain   : NMC
+	 * Password : VIP@2017
+	kerberos :	
+	 * Username : dgoffice
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 1/4/2018 12:49:08 PM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596122240 (00000000:5f22e480)
+Session           : NetworkCleartext from 0
+User Name         : shansary
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:44:46 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4835
+	msv :	
+	 [00000003] Primary
+	 * Username : shansary
+	 * Domain   : NMC
+	 * NTLM     : 5d5407c01886faeda5e1f945e0ec39ff
+	 * SHA1     : 936da0e2edbab174bac6f0908abe1e622d0b735b
+	tspkg :	
+	wdigest :	
+	 * Username : shansary
+	 * Domain   : NMC
+	 * Password : 5955@Msea777
+	kerberos :	
+	 * Username : shansary
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595098466 (00000000:5f134562)
+Session           : NetworkCleartext from 0
+User Name         : om.aidarous
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:35:58 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5188
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : f1bf5781bb3ca7e4dbf69deceb154985
+	 * SHA1     : 
+	 * RootKey  : 9e25ac7ec444daaac96d0904e50007c7bf7ede50
+	 [00000003] Primary
+	 * Username : om.aidarous
+	 * Domain   : NMC
+	 * NTLM     : f1bf5781bb3ca7e4dbf69deceb154985
+	 * SHA1     : 9e25ac7ec444daaac96d0904e50007c7bf7ede50
+	tspkg :	
+	wdigest :	
+	 * Username : om.aidarous
+	 * Domain   : NMC
+	 * Password : Barcelona86
+	kerberos :	
+	 * Username : om.aidarous
+	 * Domain   : nmc.local
+	 * Password : Barcelona86
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1591884794 (00000000:5ee23bfa)
+Session           : NetworkCleartext from 0
+User Name         : raknmc
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:06:12 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5057
+	msv :	
+	 [00000003] Primary
+	 * Username : raknmc
+	 * Domain   : NMC
+	 * NTLM     : 5118cf1cb73a31ff1470d6232f22e7f5
+	 * SHA1     : 96f9f025f7079c630f9db619d69bad5ff0eb8dc3
+	tspkg :	
+	wdigest :	
+	 * Username : raknmc
+	 * Domain   : NMC
+	 * Password : uaE@NMC15
+	kerberos :	
+	 * Username : raknmc
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1590311081 (00000000:5eca38a9)
+Session           : NetworkCleartext from 0
+User Name         : hayat
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:51:55 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4885
+	msv :	
+	 [00000003] Primary
+	 * Username : hayat
+	 * Domain   : NMC
+	 * NTLM     : 3d25aa03b7e227fecfae39716c7f528d
+	 * SHA1     : 8c3267d0b229a1955f110cda55809619eb159df6
+	tspkg :	
+	wdigest :	
+	 * Username : hayat
+	 * Domain   : NMC
+	 * Password : Sara@2018
+	kerberos :	
+	 * Username : hayat
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1588635608 (00000000:5eb0a7d8)
+Session           : NetworkCleartext from 0
+User Name         : Fatema.AlAnsari
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:36:28 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6976
+	msv :	
+	 [00000003] Primary
+	 * Username : Fatema.AlAnsari
+	 * Domain   : NMC
+	 * NTLM     : 5fdf61b1a8f171e55464fc9b329a0334
+	 * SHA1     : d2f8f4b92e05e3d55681b4fa55d26c6aaa5e19b0
+	tspkg :	
+	wdigest :	
+	 * Username : Fatema.AlAnsari
+	 * Domain   : NMC
+	 * Password : nmc@2017
+	kerberos :	
+	 * Username : Fatema.AlAnsari
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1585770428 (00000000:5e84efbc)
+Session           : NetworkCleartext from 0
+User Name         : asuwidi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:09:43 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4306
+	msv :	
+	 [00000003] Primary
+	 * Username : asuwidi
+	 * Domain   : NMC
+	 * NTLM     : 204119f298c79f8783449c534d1eb887
+	 * SHA1     : d7db60be9bca4d1093c069c2deecf1333729e34e
+	tspkg :	
+	wdigest :	
+	 * Username : asuwidi
+	 * Domain   : NMC
+	 * Password : Slama-13
+	kerberos :	
+	 * Username : asuwidi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1564344128 (00000000:5d3dff40)
+Session           : NetworkCleartext from 0
+User Name         : hmahrat
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:52:26 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4977
+	msv :	
+	 [00000003] Primary
+	 * Username : hmahrat
+	 * Domain   : NMC
+	 * NTLM     : 81079e16639ccdcbfc1be25299fa8e96
+	 * SHA1     : 42d0c257c31b5e12d2d1f5256738bde78b3a3cd0
+	tspkg :	
+	wdigest :	
+	 * Username : hmahrat
+	 * Domain   : NMC
+	 * Password : Mymonw48
+	kerberos :	
+	 * Username : hmahrat
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1479962819 (00000000:583670c3)
+Session           : NetworkCleartext from 0
+User Name         : saeed
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 10:07:52 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4957
+	msv :	
+	 [00000003] Primary
+	 * Username : saeed
+	 * Domain   : NMC
+	 * NTLM     : 606d502c28b83446e0c4c68f343a3b93
+	 * SHA1     : 57e21fc3c779d5cb3477b7be363437fcfcdeba18
+	tspkg :	
+	wdigest :	
+	 * Username : saeed
+	 * Domain   : NMC
+	 * Password : alain/2020
+	kerberos :	
+	 * Username : saeed
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1471747121 (00000000:57b91431)
+Session           : NetworkCleartext from 0
+User Name         : nalameri
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:52:34 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4712
+	msv :	
+	 [00000003] Primary
+	 * Username : nalameri
+	 * Domain   : NMC
+	 * NTLM     : 908f9c533f4072ce4a329a4ed816438f
+	 * SHA1     : 72bbc45c268343f7a8b4267d1f10fe26951f014a
+	tspkg :	
+	wdigest :	
+	 * Username : nalameri
+	 * Domain   : NMC
+	 * Password : Uae00uae
+	kerberos :	
+	 * Username : nalameri
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1443143660 (00000000:56049fec)
+Session           : NetworkCleartext from 0
+User Name         : kamal
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 4:21:43 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4983
+	msv :	
+	 [00000003] Primary
+	 * Username : kamal
+	 * Domain   : NMC
+	 * NTLM     : e7f9bc9f0fe5ac37dfb3cf3b1211a938
+	 * SHA1     : b6935b38a15db9f7563023c2635050f3f98731c0
+	tspkg :	
+	wdigest :	
+	 * Username : kamal
+	 * Domain   : NMC
+	 * Password : Wam@2017
+	kerberos :	
+	 * Username : kamal
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1385983175 (00000000:529c6cc7)
+Session           : NetworkCleartext from 0
+User Name         : Abdulsabour.Almarzoq
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 7:48:35 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6649
+	msv :	
+	 [00000003] Primary
+	 * Username : Abdulsabour.Almarzoq
+	 * Domain   : NMC
+	 * NTLM     : 8cd8d0378eb4672cf45a77c2cd03861b
+	 * SHA1     : 3da1730dd6dc751255e4b2c394203975ee079f03
+	tspkg :	
+	wdigest :	
+	 * Username : Abdulsabour.Almarzoq
+	 * Domain   : NMC
+	 * Password : Sabsab@2016
+	kerberos :	
+	 * Username : Abdulsabour.Almarzoq
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1129858724 (00000000:435846a4)
+Session           : NetworkCleartext from 0
+User Name         : karthick.rajan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 12:15:17 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8143
+	msv :	
+	 [00000003] Primary
+	 * Username : karthick.rajan
+	 * Domain   : NMC
+	 * NTLM     : 7465e60a3806eef99751dd177430e474
+	 * SHA1     : d1361aea4cc0d0a879e41b0aaaece8d7470e44f0
+	tspkg :	
+	wdigest :	
+	 * Username : karthick.rajan
+	 * Domain   : NMC
+	 * Password : UAE#2017
+	kerberos :	
+	 * Username : karthick.rajan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1117788311 (00000000:42a01897)
+Session           : NetworkCleartext from 0
+User Name         : karthick.rajan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 11:07:50 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8143
+	msv :	
+	 [00000003] Primary
+	 * Username : karthick.rajan
+	 * Domain   : NMC
+	 * NTLM     : 7465e60a3806eef99751dd177430e474
+	 * SHA1     : d1361aea4cc0d0a879e41b0aaaece8d7470e44f0
+	tspkg :	
+	wdigest :	
+	 * Username : karthick.rajan
+	 * Domain   : NMC
+	 * Password : UAE#2017
+	kerberos :	
+	 * Username : karthick.rajan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803470 (00000000:38f8674e)
+Session           : NetworkCleartext from 0
+User Name         : mkhamis
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4925
+	msv :	
+	 [00000003] Primary
+	 * Username : mkhamis
+	 * Domain   : NMC
+	 * NTLM     : bea7981a26b56a5a6c658a2f37609a77
+	 * SHA1     : b0eae55cad852042e22df7fe5e5e718092352afc
+	tspkg :	
+	wdigest :	
+	 * Username : mkhamis
+	 * Domain   : NMC
+	 * Password : M11713@m
+	kerberos :	
+	 * Username : mkhamis
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803371 (00000000:38f866eb)
+Session           : NetworkCleartext from 0
+User Name         : aqmiqdadi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6948
+	msv :	
+	 [00000003] Primary
+	 * Username : aqmiqdadi
+	 * Domain   : NMC
+	 * NTLM     : f5b684fc11cc192b38fcfa0245463641
+	 * SHA1     : 8673e0271294f952848b561e38102eb364c46a2c
+	tspkg :	
+	wdigest :	
+	 * Username : aqmiqdadi
+	 * Domain   : NMC
+	 * Password : Bagara!666
+	kerberos :	
+	 * Username : aqmiqdadi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 14661164 (00000000:00dfb62c)
+Session           : RemoteInteractive from 2
+User Name         : rami
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/4/2018 1:51:47 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4787
+	msv :	
+	 [00000003] Primary
+	 * Username : rami
+	 * Domain   : NMC
+	 * NTLM     : 71893146ced679d60d6bfa1a29e55efd
+	 * SHA1     : 308d785769fcb456ded50495544494a91aefe3f3
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 71893146ced679d60d6bfa1a29e55efd
+	 * SHA1     : 
+	 * RootKey  : 308d785769fcb456ded50495544494a91aefe3f3
+	tspkg :	
+	wdigest :	
+	 * Username : rami
+	 * Domain   : NMC
+	 * Password : Sedra@2017
+	kerberos :	
+	 * Username : rami
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595924724 (00000000:5f1fe0f4)
+Session           : NetworkCleartext from 0
+User Name         : sheraz.hussain
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:43:10 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7028
+	msv :	
+	 [00000003] Primary
+	 * Username : sheraz.hussain
+	 * Domain   : NMC
+	 * NTLM     : 4cbcfcb66b1bdd5e5bdb85b9daecd538
+	 * SHA1     : b44d979ef3e3c369669c360147649f89f2fbf5cb
+	tspkg :	
+	wdigest :	
+	 * Username : sheraz.hussain
+	 * Domain   : NMC
+	 * Password : $h!r@x.NMC@wam123$5
+	kerberos :	
+	 * Username : sheraz.hussain
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1569004473 (00000000:5d851bb9)
+Session           : NetworkCleartext from 0
+User Name         : malshehhi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:34:55 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5055
+	msv :	
+	 [00000003] Primary
+	 * Username : malshehhi
+	 * Domain   : NMC
+	 * NTLM     : fbd379e9f04d268512213de836a7e3f8
+	 * SHA1     : c85a1293986fb86387da5a809892a3da9b6c2d00
+	tspkg :	
+	wdigest :	
+	 * Username : malshehhi
+	 * Domain   : NMC
+	 * Password : lvdl@1234
+	kerberos :	
+	 * Username : malshehhi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1566401847 (00000000:5d5d6537)
+Session           : NetworkCleartext from 0
+User Name         : ahmed.alhammadi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:09:57 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5436
+	msv :	
+	 [00000003] Primary
+	 * Username : Ahmed.alhammadi
+	 * Domain   : NMC
+	 * NTLM     : d3a9f27829820ab1cd5de18645b5c458
+	 * SHA1     : 07526e3ac6fd8d675b5f6117120c4d9887691507
+	tspkg :	
+	wdigest :	
+	 * Username : Ahmed.alhammadi
+	 * Domain   : NMC
+	 * Password : Ahmed@nmc990533117
+	kerberos :	
+	 * Username : ahmed.alhammadi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1561307019 (00000000:5d0fa78b)
+Session           : NetworkCleartext from 0
+User Name         : shajahan
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:23:50 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5358
+	msv :	
+	 [00000003] Primary
+	 * Username : Shajahan
+	 * Domain   : NMC
+	 * NTLM     : e50f144ee23c8e6160469a8b8f8c16a4
+	 * SHA1     : 3ccc81f122ea969b0ec893da97189187f75af766
+	tspkg :	
+	wdigest :	
+	 * Username : Shajahan
+	 * Domain   : NMC
+	 * Password : Blessing@2004
+	kerberos :	
+	 * Username : shajahan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1546259289 (00000000:5c2a0b59)
+Session           : NetworkCleartext from 0
+User Name         : abdulla.abdulkareem
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 4:07:19 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6712
+	msv :	
+	 [00000003] Primary
+	 * Username : Abdulla.Abdulkareem
+	 * Domain   : NMC
+	 * NTLM     : afa67d0a6771ab0d3b6fe3771f630eab
+	 * SHA1     : 7292a6287baedae5d98ad60c605046b5acb1e9f7
+	tspkg :	
+	wdigest :	
+	 * Username : Abdulla.Abdulkareem
+	 * Domain   : NMC
+	 * Password : AAdec@321
+	kerberos :	
+	 * Username : abdulla.abdulkareem
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1491734046 (00000000:58ea0e1e)
+Session           : NetworkCleartext from 0
+User Name         : ialrais
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:57:46 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4106
+	msv :	
+	 [00000003] Primary
+	 * Username : ialrais
+	 * Domain   : NMC
+	 * NTLM     : 7e4ac62f0a5af8c88fbb24ef45dd9f09
+	 * SHA1     : 71b381f7cf7a0116755c208b6bf3ffb588cd690b
+	tspkg :	
+	wdigest :	
+	 * Username : ialrais
+	 * Domain   : NMC
+	 * Password : I4527899@
+	kerberos :	
+	 * Username : ialrais
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1489133409 (00000000:58c25f61)
+Session           : NetworkCleartext from 0
+User Name         : malhamadi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:34:01 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4690
+	msv :	
+	 [00000003] Primary
+	 * Username : malhamadi
+	 * Domain   : NMC
+	 * NTLM     : d689fd734e36d3a21f29edb094d2d9e5
+	 * SHA1     : b950b705d76bc0e72f250fddac709329d6cd7938
+	tspkg :	
+	wdigest :	
+	 * Username : malhamadi
+	 * Domain   : NMC
+	 * Password : omer@1355155
+	kerberos :	
+	 * Username : malhamadi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1368280338 (00000000:518e4d12)
+Session           : NetworkCleartext from 0
+User Name         : sherif.temraz
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 5:21:26 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6925
+	msv :	
+	 [00000003] Primary
+	 * Username : sherif.temraz
+	 * Domain   : NMC
+	 * NTLM     : 7710ff0e28cadc8b3481fd2ae985149e
+	 * SHA1     : 775073b4fbc6ef14fa82b9fc592a9e7a3ac30dcc
+	tspkg :	
+	wdigest :	
+	 * Username : sherif.temraz
+	 * Domain   : NMC
+	 * Password : Wam@sh123
+	kerberos :	
+	 * Username : sherif.temraz
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1306875861 (00000000:4de557d5)
+Session           : NetworkCleartext from 0
+User Name         : sherif.temraz
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 10:37:17 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6925
+	msv :	
+	 [00000003] Primary
+	 * Username : sherif.temraz
+	 * Domain   : NMC
+	 * NTLM     : 7710ff0e28cadc8b3481fd2ae985149e
+	 * SHA1     : 775073b4fbc6ef14fa82b9fc592a9e7a3ac30dcc
+	tspkg :	
+	wdigest :	
+	 * Username : sherif.temraz
+	 * Domain   : NMC
+	 * Password : Wam@sh123
+	kerberos :	
+	 * Username : sherif.temraz
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 14661273 (00000000:00dfb699)
+Session           : RemoteInteractive from 2
+User Name         : rami
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/4/2018 1:51:47 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4787
+	msv :	
+	 [00000003] Primary
+	 * Username : rami
+	 * Domain   : NMC
+	 * NTLM     : 71893146ced679d60d6bfa1a29e55efd
+	 * SHA1     : 308d785769fcb456ded50495544494a91aefe3f3
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 71893146ced679d60d6bfa1a29e55efd
+	 * SHA1     : 
+	 * RootKey  : 308d785769fcb456ded50495544494a91aefe3f3
+	tspkg :	
+	wdigest :	
+	 * Username : rami
+	 * Domain   : NMC
+	 * Password : Sedra@2017
+	kerberos :	
+	 * Username : rami
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : AUHMBXP01$
+Domain            : NMC
+Logon Server      : (null)
+Logon Time        : 1/4/2018 12:49:04 PM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * Password : 52 5e 4a bd e8 2d 55 42 fa 36 d1 a7 dc 6d 6e 88 88 fe cf 2b ed af c7 24 e6 00 59 92 50 3f bc df 17 3b 70 99 05 84 7b 77 7c 31 5e 9f 52 48 fc c8 f3 2e 28 8d d9 0b 4d 21 30 d7 e1 fe 34 c0 51 4a 17 2b 29 61 84 5b be 52 71 ca 20 39 c6 bb c4 06 d0 a9 a3 56 55 19 4d fd 99 2c ff 55 96 e4 f9 39 7e a8 8a 1b 16 ff 58 cf e0 23 d1 d4 81 88 6e 5c af 66 1e c6 c3 cb 54 47 fe 98 8b 61 20 49 e2 50 1a d7 17 d1 9b 48 ed 1d 84 9f 30 67 5a 67 12 99 42 db 9c 0f 67 83 9c 8e 2a 31 3a f9 02 d8 57 9a b1 88 cf e0 f4 78 7a c8 21 94 57 84 88 ab d2 44 1c 01 e8 d7 2e 1a e1 10 5a 43 47 de b4 a3 04 c0 87 d9 14 3a 6d bf 88 ca 52 67 b5 1b c1 f6 88 eb 42 e1 b4 4e 05 25 95 e8 01 6d 86 d0 31 23 67 2b 55 7c 90 bc cb 81 fe 5a 86 ff 67 22 59 dc f0 5a 
+	kerberos :	
+	 * Username : auhmbxp01$
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596195976 (00000000:5f240488)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:45:49 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596181657 (00000000:5f23cc99)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:45:36 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1593403636 (00000000:5ef968f4)
+Session           : NetworkCleartext from 0
+User Name         : may.s
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:19:50 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5204
+	msv :	
+	 [00000003] Primary
+	 * Username : May.s
+	 * Domain   : NMC
+	 * NTLM     : 140d844f65dec3d51b2238315dd5afde
+	 * SHA1     : 58f02c7b67fd1542712e9f2474ac3d44f27f1693
+	tspkg :	
+	wdigest :	
+	 * Username : May.s
+	 * Domain   : NMC
+	 * Password : @Malak1212
+	kerberos :	
+	 * Username : may.s
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1593375865 (00000000:5ef8fc79)
+Session           : NetworkCleartext from 0
+User Name         : aalmazam
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:19:28 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4874
+	msv :	
+	 [00000003] Primary
+	 * Username : aalmazam
+	 * Domain   : NMC
+	 * NTLM     : b1a02646b4ada43496ff59138aaa058e
+	 * SHA1     : af8bee45e83ee6ecd6b9630b150b330b1b9d4eb2
+	tspkg :	
+	wdigest :	
+	 * Username : aalmazam
+	 * Domain   : NMC
+	 * Password : @Ahim8996
+	kerberos :	
+	 * Username : aalmazam
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1536462199 (00000000:5b948d77)
+Session           : NetworkCleartext from 0
+User Name         : gmoffice
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 2:37:25 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5279
+	msv :	
+	 [00000003] Primary
+	 * Username : gmoffice
+	 * Domain   : NMC
+	 * NTLM     : 34bcb23bf289ab16fad7ef5353ed10fb
+	 * SHA1     : 98356e2bb54b12d35b1b6b383fa1cfe020829b5a
+	tspkg :	
+	wdigest :	
+	 * Username : gmoffice
+	 * Domain   : NMC
+	 * Password : AA4511781bb
+	kerberos :	
+	 * Username : gmoffice
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1494305323 (00000000:59114a2b)
+Session           : NetworkCleartext from 0
+User Name         : salshidi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 12:06:20 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4910
+	msv :	
+	 [00000003] Primary
+	 * Username : salshidi
+	 * Domain   : NMC
+	 * NTLM     : 4af97cc859404b706814c303176da69a
+	 * SHA1     : 03ea7563fd24f3c4585268bfe51fc74dcd4a73d9
+	tspkg :	
+	wdigest :	
+	 * Username : salshidi
+	 * Domain   : NMC
+	 * Password : Al@7117232
+	kerberos :	
+	 * Username : salshidi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1428879520 (00000000:552af8a0)
+Session           : NetworkCleartext from 0
+User Name         : atif_a
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 2:06:04 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4449
+	msv :	
+	 [00000003] Primary
+	 * Username : atif_a
+	 * Domain   : NMC
+	 * NTLM     : 19fa476bcedb736718afd2063bf300a1
+	 * SHA1     : 56b7ad92df1ad0fd51bfabef2b7b5d72cc50146c
+	tspkg :	
+	wdigest :	
+	 * Username : atif_a
+	 * Domain   : NMC
+	 * Password : Gogo@9050188
+	kerberos :	
+	 * Username : atif_a
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1372260865 (00000000:51cb0a01)
+Session           : NetworkCleartext from 0
+User Name         : mkhasawneh
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 5:51:14 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4868
+	msv :	
+	 [00000003] Primary
+	 * Username : mkhasawneh
+	 * Domain   : NMC
+	 * NTLM     : 7a0a5a9ad1d6f01e430d31a44d1bbac4
+	 * SHA1     : 3eb78d2949f2ea786eb5c182217bee0535fe318e
+	tspkg :	
+	wdigest :	
+	 * Username : mkhasawneh
+	 * Domain   : NMC
+	 * Password : 5asawneh1@
+	kerberos :	
+	 * Username : mkhasawneh
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1225306609 (00000000:4908b1f1)
+Session           : NetworkCleartext from 0
+User Name         : jasim.alsheheimi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 12:22:39 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6716
+	msv :	
+	 [00000003] Primary
+	 * Username : Jasim.Alsheheimi
+	 * Domain   : NMC
+	 * NTLM     : 8c9a13ed5d646a1a78ba975bc162d225
+	 * SHA1     : 0020b199afadacac9a28816f3603fed7c7a9da74
+	tspkg :	
+	wdigest :	
+	 * Username : Jasim.Alsheheimi
+	 * Domain   : NMC
+	 * Password : Qasayedhala84
+	kerberos :	
+	 * Username : jasim.alsheheimi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803424 (00000000:38f86720)
+Session           : NetworkCleartext from 0
+User Name         : abdulla.dabash
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5045
+	msv :	
+	 [00000003] Primary
+	 * Username : abdulla.dabash
+	 * Domain   : NMC
+	 * NTLM     : fc72ba9676a3741b532ab949f3428caa
+	 * SHA1     : 57955c176bbd575135ece0a15d6a32f0df014295
+	tspkg :	
+	wdigest :	
+	 * Username : abdulla.dabash
+	 * Domain   : NMC
+	 * Password : AA4222122bb
+	kerberos :	
+	 * Username : abdulla.dabash
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803349 (00000000:38f866d5)
+Session           : NetworkCleartext from 0
+User Name         : maamir
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4857
+	msv :	
+	 [00000003] Primary
+	 * Username : maamir
+	 * Domain   : NMC
+	 * NTLM     : 7a5ce74614aaa1cdb9483b64d0ad45bf
+	 * SHA1     : 02f47030d610b113142a4243792cec2d20ddd5a0
+	tspkg :	
+	wdigest :	
+	 * Username : maamir
+	 * Domain   : NMC
+	 * Password : Emirates1
+	kerberos :	
+	 * Username : maamir
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 9200488 (00000000:008c6368)
+Session           : NetworkCleartext from 0
+User Name         : A.AlMehri
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/4/2018 1:15:11 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5203
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 435937f2aebe06f7ace38f302f45d59f
+	 * SHA1     : 
+	 * RootKey  : 834f233afcd48f157c53db4b9fcaabe9feaf2259
+	 [00000003] Primary
+	 * Username : A.AlMehri
+	 * Domain   : NMC
+	 * NTLM     : 435937f2aebe06f7ace38f302f45d59f
+	 * SHA1     : 834f233afcd48f157c53db4b9fcaabe9feaf2259
+	tspkg :	
+	wdigest :	
+	 * Username : A.AlMehri
+	 * Domain   : NMC
+	 * Password : ahmad@11121978
+	kerberos :	
+	 * Username : A.AlMehri
+	 * Domain   : nmc.local
+	 * Password : ahmad@11121978
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596211628 (00000000:5f2441ac)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:46:02 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595932619 (00000000:5f1fffcb)
+Session           : NetworkCleartext from 0
+User Name         : tahani
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:43:14 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4832
+	msv :	
+	 [00000003] Primary
+	 * Username : tahani
+	 * Domain   : NMC
+	 * NTLM     : f55198a8d9166a6e901cf24de8545958
+	 * SHA1     : fbf29a11e4075d628901c6d19e30c2ba93733dfe
+	tspkg :	
+	wdigest :	
+	 * Username : tahani
+	 * Domain   : NMC
+	 * Password : Fahad@1983
+	kerberos :	
+	 * Username : tahani
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595439416 (00000000:5f187938)
+Session           : NetworkCleartext from 0
+User Name         : ralhammadi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:38:56 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5075
+	msv :	
+	 [00000003] Primary
+	 * Username : ralhammadi
+	 * Domain   : NMC
+	 * NTLM     : 0d8554bc010ce032a9a8a0ea168d2d4c
+	 * SHA1     : 67d7531e27e4f3c9532ee0643e24e018ce9256e8
+	tspkg :	
+	wdigest :	
+	 * Username : ralhammadi
+	 * Domain   : NMC
+	 * Password : Rafea2582@
+	kerberos :	
+	 * Username : ralhammadi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1593902606 (00000000:5f01060e)
+Session           : NetworkCleartext from 0
+User Name         : mhaji
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:24:23 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4861
+	msv :	
+	 [00000003] Primary
+	 * Username : mhaji
+	 * Domain   : NMC
+	 * NTLM     : d06433b846f44604d7da0552b497a907
+	 * SHA1     : d97bc4033d5a081369247f03da7d7403d1a9a07d
+	tspkg :	
+	wdigest :	
+	 * Username : mhaji
+	 * Domain   : NMC
+	 * Password : Amblooki@1961
+	kerberos :	
+	 * Username : mhaji
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1587778787 (00000000:5ea394e3)
+Session           : NetworkCleartext from 0
+User Name         : hanaa
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:28:15 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5053
+	msv :	
+	 [00000003] Primary
+	 * Username : hanaa
+	 * Domain   : NMC
+	 * NTLM     : b32c3e8f5b031fbc86cf5849e66c4a10
+	 * SHA1     : 63e1a3adb5261713a40b982d5b5f61a3e0d70ac2
+	tspkg :	
+	wdigest :	
+	 * Username : hanaa
+	 * Domain   : NMC
+	 * Password : MT@sms#shm
+	kerberos :	
+	 * Username : hanaa
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1580767250 (00000000:5e389812)
+Session           : NetworkCleartext from 0
+User Name         : fatma.alsaadi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:24:02 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6934
+	msv :	
+	 [00000003] Primary
+	 * Username : fatma.alsaadi
+	 * Domain   : NMC
+	 * NTLM     : 548b713c5f1fa59e9a55ad3acdf18cf7
+	 * SHA1     : dbaef8ae5d50e9b405d4bd957060974c1db93ab9
+	tspkg :	
+	wdigest :	
+	 * Username : fatma.alsaadi
+	 * Domain   : NMC
+	 * Password : TOMA@7505
+	kerberos :	
+	 * Username : fatma.alsaadi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1574392649 (00000000:5dd75349)
+Session           : NetworkCleartext from 0
+User Name         : hmenhali
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:27:25 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4103
+	msv :	
+	 [00000003] Primary
+	 * Username : hmenhali
+	 * Domain   : NMC
+	 * NTLM     : 415061864650af88bc9ad0ca83fa714f
+	 * SHA1     : f37820ffad27269fe3d752943325550c74116e7c
+	tspkg :	
+	wdigest :	
+	 * Username : hmenhali
+	 * Domain   : NMC
+	 * Password : WAM1@wam1
+	kerberos :	
+	 * Username : hmenhali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1570049369 (00000000:5d950d59)
+Session           : NetworkCleartext from 0
+User Name         : nasser
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:44:39 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4738
+	msv :	
+	 [00000003] Primary
+	 * Username : nasser
+	 * Domain   : NMC
+	 * NTLM     : c599a560ccc9cf2ebd9734bef2c2f901
+	 * SHA1     : b441e23fd8377a40f3901b951088140ee693fc04
+	tspkg :	
+	wdigest :	
+	 * Username : nasser
+	 * Domain   : NMC
+	 * Password : N824311@1913Nn
+	kerberos :	
+	 * Username : nasser
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1538801729 (00000000:5bb84041)
+Session           : NetworkCleartext from 0
+User Name         : abdelhamid.shawki
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 2:57:04 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6989
+	msv :	
+	 [00000003] Primary
+	 * Username : Abdelhamid.shawki
+	 * Domain   : NMC
+	 * NTLM     : e7f9bc9f0fe5ac37dfb3cf3b1211a938
+	 * SHA1     : b6935b38a15db9f7563023c2635050f3f98731c0
+	tspkg :	
+	wdigest :	
+	 * Username : Abdelhamid.shawki
+	 * Domain   : NMC
+	 * Password : Wam@2017
+	kerberos :	
+	 * Username : abdelhamid.shawki
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1476424553 (00000000:58007369)
+Session           : NetworkCleartext from 0
+User Name         : may.s
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:36:08 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5204
+	msv :	
+	 [00000003] Primary
+	 * Username : May.s
+	 * Domain   : NMC
+	 * NTLM     : 140d844f65dec3d51b2238315dd5afde
+	 * SHA1     : 58f02c7b67fd1542712e9f2474ac3d44f27f1693
+	tspkg :	
+	wdigest :	
+	 * Username : May.s
+	 * Domain   : NMC
+	 * Password : @Malak1212
+	kerberos :	
+	 * Username : may.s
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1255644905 (00000000:4ad79ee9)
+Session           : NetworkCleartext from 0
+User Name         : sanaa
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 5:06:12 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4784
+	msv :	
+	 [00000003] Primary
+	 * Username : sanaa
+	 * Domain   : NMC
+	 * NTLM     : 74f7d146b29622eda358b35d3d41294a
+	 * SHA1     : e0ac4a1a4fb4a89134f39b60d41d095d0d9429ce
+	tspkg :	
+	wdigest :	
+	 * Username : sanaa
+	 * Domain   : NMC
+	 * Password : Topsecret@69
+	kerberos :	
+	 * Username : sanaa
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1108283228 (00000000:420f0f5c)
+Session           : NetworkCleartext from 0
+User Name         : mlardhi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 10:08:16 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4702
+	msv :	
+	 [00000003] Primary
+	 * Username : mlardhi
+	 * Domain   : NMC
+	 * NTLM     : 9b58faed1d27ca8e3eb6035753cf4e4d
+	 * SHA1     : 1e3090d3e7b25d0e8af5dd17449d3235a79ce5fa
+	tspkg :	
+	wdigest :	
+	 * Username : mlardhi
+	 * Domain   : NMC
+	 * Password : Lma18963
+	kerberos :	
+	 * Username : mlardhi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 95072 (00000000:00017360)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 1/4/2018 12:49:04 PM
+SID               : 
+	msv :	
+	 [00000003] Primary
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * NTLM     : f4ef270dbab3b7983c55c1f6716dc465
+	 * SHA1     : 4f77188c7388289fb1f8bb2e003e362562ca4915
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	 [00000000]
+	 * Username : HealthMailbox2336d8fcbba24304b168ed1f79843db3@nmc.local
+	 * Domain   : (null)
+	 * Password : 2k{+kE}i)@%C85eInm%g-^uiHGz*Jk(}MV(-14*]!j7voPn/=:=2SBc[ZAxFhxUhcwF2KYi:#]OtTIg)&.%}HTa%[:ZlNS-2Cu4IF&2.rD;;nS-w2_x&0T3wV6|x7(kx
+	 [00000001]
+	 * Username : HealthMailbox7c27c3ddd0114b03853c5cb294e11074@nmc.local
+	 * Domain   : (null)
+	 * Password : fD7@M)mq!YTj;5.v?U/ZzsK{Vf?]]S.3V4nehNN2LrcTk5u(|xL$@eZ$$+&Si2@F8UsZ4yUT9IDO.0Ey2&g1FCPuB}W14]0Z/;?{W@vSy|M?%f(2_[3{*y3+RZ|*iB@7
+	 [00000002]
+	 * Username : HealthMailbox2336d8fcbba24304b168ed1f79843db3@nmc.local
+	 * Domain   : (null)
+	 * Password : 2k{+kE}i)@%C85eInm%g-^uiHGz*Jk(}MV(-14*]!j7voPn/=:=2SBc[ZAxFhxUhcwF2KYi:#]OtTIg)&.%}HTa%[:ZlNS-2Cu4IF&2.rD;;nS-w2_x&0T3wV6|x7(kx
+	 [00000003]
+	 * Username : anajeeb
+	 * Domain   : (null)
+	 * Password : NAJI@naji
+	 [00000004]
+	 * Username : CodeTwoSiuAgent@nmc.local
+	 * Domain   : (null)
+	 * Password : j@7Bw%9Cb@4Pv^1Db!6Ht#7Hh#9Jy#0P
+	 [00000005]
+	 * Username : AUHMBXP01$
+	 * Domain   : (null)
+	 * Password : (null)
+	 [00000006]
+	 * Username : cliusr
+	 * Domain   : AUHMBXP02
+	 * Password : Z%gfDA6u!0;`')
+	credman :	
+
+Authentication Id : 0 ; 1596204939 (00000000:5f24278b)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:45:58 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596018024 (00000000:5f214d68)
+Session           : NetworkCleartext from 0
+User Name         : fatmah.abdouli
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:43:57 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6706
+	msv :	
+	 [00000003] Primary
+	 * Username : Fatmah.abdouli
+	 * Domain   : NMC
+	 * NTLM     : 357b9ce050cb175cbd3094b8b65ea289
+	 * SHA1     : 42d568e9ae9be8c6f67fe077162a3861854b5bf8
+	tspkg :	
+	wdigest :	
+	 * Username : Fatmah.abdouli
+	 * Domain   : NMC
+	 * Password : f6eem@7amdan
+	kerberos :	
+	 * Username : fatmah.abdouli
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1589348265 (00000000:5ebb87a9)
+Session           : NetworkCleartext from 0
+User Name         : ikatan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:43:36 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4819
+	msv :	
+	 [00000003] Primary
+	 * Username : ikatan
+	 * Domain   : NMC
+	 * NTLM     : ff505d7872652f36cc17b541bf61e2e7
+	 * SHA1     : da39cf18bd70119bdef21119a56dbea3177c4548
+	tspkg :	
+	wdigest :	
+	 * Username : ikatan
+	 * Domain   : NMC
+	 * Password : Uae_2017
+	kerberos :	
+	 * Username : ikatan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1586907588 (00000000:5e9649c4)
+Session           : NetworkCleartext from 0
+User Name         : ghadah.alameri
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:20:27 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8171
+	msv :	
+	 [00000003] Primary
+	 * Username : ghadah.alameri
+	 * Domain   : NMC
+	 * NTLM     : ceb0f1b9751ee49d3718459b3e0207de
+	 * SHA1     : 9b11fac25d05219c216c404df555d763b34de043
+	tspkg :	
+	wdigest :	
+	 * Username : ghadah.alameri
+	 * Domain   : NMC
+	 * Password : New@2017
+	kerberos :	
+	 * Username : ghadah.alameri
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1585764288 (00000000:5e84d7c0)
+Session           : NetworkCleartext from 0
+User Name         : A.AlMehri
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:09:37 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5203
+	msv :	
+	 [00000003] Primary
+	 * Username : A.AlMehri
+	 * Domain   : NMC
+	 * NTLM     : 435937f2aebe06f7ace38f302f45d59f
+	 * SHA1     : 834f233afcd48f157c53db4b9fcaabe9feaf2259
+	tspkg :	
+	wdigest :	
+	 * Username : A.AlMehri
+	 * Domain   : NMC
+	 * Password : ahmad@11121978
+	kerberos :	
+	 * Username : A.AlMehri
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1574868891 (00000000:5dde979b)
+Session           : NetworkCleartext from 0
+User Name         : aatef
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:32:27 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4912
+	msv :	
+	 [00000003] Primary
+	 * Username : aatef
+	 * Domain   : NMC
+	 * NTLM     : 2b4a59ced15f2c23e325d9908fb5a349
+	 * SHA1     : 25e093205405a1b1cb0f8b10fae557c93ed1b517
+	tspkg :	
+	wdigest :	
+	 * Username : aatef
+	 * Domain   : NMC
+	 * Password : JORDAN@1971
+	kerberos :	
+	 * Username : aatef
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1569005412 (00000000:5d851f64)
+Session           : NetworkCleartext from 0
+User Name         : itsupport
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:34:56 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5237
+	msv :	
+	 [00000003] Primary
+	 * Username : itsupport
+	 * Domain   : NMC
+	 * NTLM     : 9aeee51c8db55696c2af5ade7e20ce23
+	 * SHA1     : 434e10b2ce71129d28cc507e3a9449393b49668f
+	tspkg :	
+	wdigest :	
+	 * Username : itsupport
+	 * Domain   : NMC
+	 * Password : iphone@999
+	kerberos :	
+	 * Username : itsupport
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1562824611 (00000000:5d26cfa3)
+Session           : NetworkCleartext from 0
+User Name         : training
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:38:26 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4743
+	msv :	
+	 [00000003] Primary
+	 * Username : training
+	 * Domain   : NMC
+	 * NTLM     : db1d90ef8c658dc51cce480e762dd02d
+	 * SHA1     : f9809b847d3dcccf336abfa53852fafca072db16
+	tspkg :	
+	wdigest :	
+	 * Username : training
+	 * Domain   : NMC
+	 * Password : star@2017
+	kerberos :	
+	 * Username : training
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1539260631 (00000000:5bbf40d7)
+Session           : NetworkCleartext from 0
+User Name         : osaeedi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 3:01:42 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-3707
+	msv :	
+	 [00000003] Primary
+	 * Username : osaeedi
+	 * Domain   : NMC
+	 * NTLM     : 613c43732e56794905b80a27b4f570b0
+	 * SHA1     : ffb0ad477c299782206cc02238410fe0a3553057
+	tspkg :	
+	wdigest :	
+	 * Username : osaeedi
+	 * Domain   : NMC
+	 * Password : Akmnf54321
+	kerberos :	
+	 * Username : osaeedi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1469633817 (00000000:5798d519)
+Session           : NetworkCleartext from 0
+User Name         : alla.albuainain
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:32:22 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6954
+	msv :	
+	 [00000003] Primary
+	 * Username : Alla.Albuainain
+	 * Domain   : NMC
+	 * NTLM     : b52997054b4241d0e35bf03c8ec21f4d
+	 * SHA1     : 3e0f0a133e99cb437368c96c734aeeead971fa4e
+	tspkg :	
+	wdigest :	
+	 * Username : Alla.Albuainain
+	 * Domain   : NMC
+	 * Password : Al6613266
+	kerberos :	
+	 * Username : alla.albuainain
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1460591178 (00000000:570eda4a)
+Session           : NetworkCleartext from 0
+User Name         : rnour
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:03:33 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4802
+	msv :	
+	 [00000003] Primary
+	 * Username : rnour
+	 * Domain   : NMC
+	 * NTLM     : 0d94e392e37eeac11a1c14129234f0cf
+	 * SHA1     : 4aeab3eb2fe77d473ad9cf1f1dcfad0676e17393
+	tspkg :	
+	wdigest :	
+	 * Username : rnour
+	 * Domain   : NMC
+	 * Password : RR_rr@20477
+	kerberos :	
+	 * Username : rnour
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1350264372 (00000000:507b6634)
+Session           : NetworkCleartext from 0
+User Name         : halomaira
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 2:51:38 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5056
+	msv :	
+	 [00000003] Primary
+	 * Username : halomaira
+	 * Domain   : NMC
+	 * NTLM     : 54a15f9ab8846bfbdf63a2a534a8cc40
+	 * SHA1     : 8c0a3e36dde10e716f03130789cb93c2f291fc60
+	tspkg :	
+	wdigest :	
+	 * Username : halomaira
+	 * Domain   : NMC
+	 * Password : solo@2384
+	kerberos :	
+	 * Username : halomaira
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1348527078 (00000000:5060e3e6)
+Session           : NetworkCleartext from 0
+User Name         : ahmed.yousef
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 2:39:39 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8159
+	msv :	
+	 [00000003] Primary
+	 * Username : ahmed.yousef
+	 * Domain   : NMC
+	 * NTLM     : 8462df67a98694ce710f3265d254dbce
+	 * SHA1     : 2b92450d29ff8fa7ab34faf0a366cf504b023acc
+	tspkg :	
+	wdigest :	
+	 * Username : ahmed.yousef
+	 * Domain   : NMC
+	 * Password : A7md1651$
+	kerberos :	
+	 * Username : ahmed.yousef
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803570 (00000000:38f867b2)
+Session           : NetworkCleartext from 0
+User Name         : qramadan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7621
+	msv :	
+	 [00000003] Primary
+	 * Username : qramadan
+	 * Domain   : NMC
+	 * NTLM     : 2f762f0a1a7e86bead7ebbb58e69e6e1
+	 * SHA1     : 4d97810b57fc48fa4682b452d0e5ffcbc5adfdd3
+	tspkg :	
+	wdigest :	
+	 * Username : qramadan
+	 * Domain   : NMC
+	 * Password : ,hl@2017
+	kerberos :	
+	 * Username : qramadan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596168706 (00000000:5f239a02)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:45:23 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595727664 (00000000:5f1cdf30)
+Session           : NetworkCleartext from 0
+User Name         : anajeeb
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:41:42 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-3376
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : d96757ccdc5a3bca8b1cd07f8871ef41
+	 * SHA1     : 
+	 * RootKey  : a143c2c1a9cb321bcf6069e938d6048ad4cc67c1
+	 [00000003] Primary
+	 * Username : anajeeb
+	 * Domain   : NMC
+	 * NTLM     : d96757ccdc5a3bca8b1cd07f8871ef41
+	 * SHA1     : a143c2c1a9cb321bcf6069e938d6048ad4cc67c1
+	tspkg :	
+	wdigest :	
+	 * Username : anajeeb
+	 * Domain   : NMC
+	 * Password : NAJI@naji
+	kerberos :	
+	 * Username : anajeeb
+	 * Domain   : nmc.local
+	 * Password : NAJI@naji
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595431888 (00000000:5f185bd0)
+Session           : NetworkCleartext from 0
+User Name         : wamdigital
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:38:49 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7045
+	msv :	
+	 [00000003] Primary
+	 * Username : wamdigital
+	 * Domain   : NMC
+	 * NTLM     : bcc981ff7714f1574a579ff8178d05cf
+	 * SHA1     : 5ff4d4249d1b0f7581a0535502679c44cdf3fb15
+	tspkg :	
+	wdigest :	
+	 * Username : wamdigital
+	 * Domain   : NMC
+	 * Password : Uaz#147$
+	kerberos :	
+	 * Username : wamdigital
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595081191 (00000000:5f1301e7)
+Session           : NetworkCleartext from 0
+User Name         : om.aidarous
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:35:42 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5188
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : f1bf5781bb3ca7e4dbf69deceb154985
+	 * SHA1     : 
+	 * RootKey  : 9e25ac7ec444daaac96d0904e50007c7bf7ede50
+	 [00000003] Primary
+	 * Username : om.aidarous
+	 * Domain   : NMC
+	 * NTLM     : f1bf5781bb3ca7e4dbf69deceb154985
+	 * SHA1     : 9e25ac7ec444daaac96d0904e50007c7bf7ede50
+	tspkg :	
+	wdigest :	
+	 * Username : om.aidarous
+	 * Domain   : NMC
+	 * Password : Barcelona86
+	kerberos :	
+	 * Username : om.aidarous
+	 * Domain   : nmc.local
+	 * Password : Barcelona86
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1593707821 (00000000:5efe0d2d)
+Session           : NetworkCleartext from 0
+User Name         : huzaifa.abdelgader
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:22:28 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7087
+	msv :	
+	 [00000003] Primary
+	 * Username : huzaifa.abdelgader
+	 * Domain   : NMC
+	 * NTLM     : 8d718f34d41a176f53cc5373e49de4ca
+	 * SHA1     : 223028b64e8c992e146e3ab90ea782c74855773b
+	tspkg :	
+	wdigest :	
+	 * Username : huzaifa.abdelgader
+	 * Domain   : NMC
+	 * Password : HE@7101989
+	kerberos :	
+	 * Username : huzaifa.abdelgader
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1592090281 (00000000:5ee55ea9)
+Session           : NetworkCleartext from 0
+User Name         : amany
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:07:35 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4840
+	msv :	
+	 [00000003] Primary
+	 * Username : amany
+	 * Domain   : NMC
+	 * NTLM     : d08c5a9d0cd051579f93d51f7c9af540
+	 * SHA1     : 1bb8ffc735206f77fd3256f956fb8c133df4d277
+	tspkg :	
+	wdigest :	
+	 * Username : amany
+	 * Domain   : NMC
+	 * Password : Kimo@7878
+	kerberos :	
+	 * Username : amany
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1581736918 (00000000:5e4763d6)
+Session           : NetworkCleartext from 0
+User Name         : Hessa.AlHammadi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:30:31 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7079
+	msv :	
+	 [00000003] Primary
+	 * Username : Hessa.AlHammadi
+	 * Domain   : NMC
+	 * NTLM     : a2bb6d81eb638fc85d7431e6f584ef1d
+	 * SHA1     : 50a2e92a6c1639f1cb9e12ae9532935d7a0b4469
+	tspkg :	
+	wdigest :	
+	 * Username : Hessa.AlHammadi
+	 * Domain   : NMC
+	 * Password : Wam@2016
+	kerberos :	
+	 * Username : Hessa.AlHammadi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1569414955 (00000000:5d8b5f2b)
+Session           : NetworkCleartext from 0
+User Name         : alya.aldarmaki
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:39:01 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6945
+	msv :	
+	 [00000003] Primary
+	 * Username : Alya.aldarmaki
+	 * Domain   : NMC
+	 * NTLM     : 7d93c5f38d755ec1eed72851cd988ba4
+	 * SHA1     : d986054531e0233f67107475c256803967ae33b5
+	tspkg :	
+	wdigest :	
+	 * Username : Alya.aldarmaki
+	 * Domain   : NMC
+	 * Password : Shaikha12
+	kerberos :	
+	 * Username : alya.aldarmaki
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1567556614 (00000000:5d6f0406)
+Session           : NetworkCleartext from 0
+User Name         : rnajjar
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:21:20 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4823
+	msv :	
+	 [00000003] Primary
+	 * Username : rnajjar
+	 * Domain   : NMC
+	 * NTLM     : 648674d6236b4cdc6a2a3060405475e7
+	 * SHA1     : 04ee62723df40496b6acdda9f53cd7970baf07f0
+	tspkg :	
+	wdigest :	
+	 * Username : rnajjar
+	 * Domain   : NMC
+	 * Password : Njr@1935
+	kerberos :	
+	 * Username : rnajjar
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1547019106 (00000000:5c35a362)
+Session           : NetworkCleartext from 0
+User Name         : aeida
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 4:15:10 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4797
+	msv :	
+	 [00000003] Primary
+	 * Username : aeida
+	 * Domain   : NMC
+	 * NTLM     : aa714f78de1508cea8f3e1a1cfe4b7a5
+	 * SHA1     : 8711fa1c4f946e2bad7dfe1fc231f036af247936
+	tspkg :	
+	wdigest :	
+	 * Username : aeida
+	 * Domain   : NMC
+	 * Password : Hamza@6164401
+	kerberos :	
+	 * Username : aeida
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1246602925 (00000000:4a4da6ad)
+Session           : NetworkCleartext from 0
+User Name         : omar.olimat
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 3:40:48 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5346
+	msv :	
+	 [00000003] Primary
+	 * Username : omar.olimat
+	 * Domain   : NMC
+	 * NTLM     : 50ba9e10ad1807494b48aefd12463959
+	 * SHA1     : eda782b74dc17d84160ecc7e6ef6892482f9bb48
+	tspkg :	
+	wdigest :	
+	 * Username : omar.olimat
+	 * Domain   : NMC
+	 * Password : RASHID@18109
+	kerberos :	
+	 * Username : omar.olimat
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803388 (00000000:38f866fc)
+Session           : NetworkCleartext from 0
+User Name         : gmoffice
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5279
+	msv :	
+	 [00000003] Primary
+	 * Username : gmoffice
+	 * Domain   : NMC
+	 * NTLM     : 34bcb23bf289ab16fad7ef5353ed10fb
+	 * SHA1     : 98356e2bb54b12d35b1b6b383fa1cfe020829b5a
+	tspkg :	
+	wdigest :	
+	 * Username : gmoffice
+	 * Domain   : NMC
+	 * Password : AA4511781bb
+	kerberos :	
+	 * Username : gmoffice
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595915732 (00000000:5f1fbdd4)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:43:00 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1594065284 (00000000:5f038184)
+Session           : NetworkCleartext from 0
+User Name         : mshahin
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:25:44 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4703
+	msv :	
+	 [00000003] Primary
+	 * Username : mshahin
+	 * Domain   : NMC
+	 * NTLM     : 64510b40fbfd086c915837ebbf8425a4
+	 * SHA1     : f4b204bfd9a626413a1db8538734b88694b3a6a7
+	tspkg :	
+	wdigest :	
+	 * Username : mshahin
+	 * Domain   : NMC
+	 * Password : ms123456$$
+	kerberos :	
+	 * Username : mshahin
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1577381714 (00000000:5e04ef52)
+Session           : NetworkCleartext from 0
+User Name         : jaber.allamki
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:54:19 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6647
+	msv :	
+	 [00000003] Primary
+	 * Username : jaber.allamki
+	 * Domain   : NMC
+	 * NTLM     : c2876426607383affdb63bfbf001ca1b
+	 * SHA1     : ad06d8d46d661d43a55797beeaaa4ba1cf1d96be
+	tspkg :	
+	wdigest :	
+	 * Username : jaber.allamki
+	 * Domain   : NMC
+	 * Password : BuMaitha@2017
+	kerberos :	
+	 * Username : jaber.allamki
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1576091375 (00000000:5df13eef)
+Session           : NetworkCleartext from 0
+User Name         : halblooshi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:43:43 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5425
+	msv :	
+	 [00000003] Primary
+	 * Username : halblooshi
+	 * Domain   : NMC
+	 * NTLM     : f8d08f728ecfb6c1f66c84518576ebbe
+	 * SHA1     : 899765222cf0ede645482aa47038a7960bafb39d
+	tspkg :	
+	wdigest :	
+	 * Username : halblooshi
+	 * Domain   : NMC
+	 * Password : Kang000l
+	kerberos :	
+	 * Username : halblooshi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1562756990 (00000000:5d25c77e)
+Session           : NetworkCleartext from 0
+User Name         : omar.alhumaidi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:37:47 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6967
+	msv :	
+	 [00000003] Primary
+	 * Username : omar.alhumaidi
+	 * Domain   : NMC
+	 * NTLM     : 204d76155eb5735f46258f2fe0f89bfa
+	 * SHA1     : edda97a0071701be0c6edd00e8356b79b37e214e
+	tspkg :	
+	wdigest :	
+	 * Username : omar.alhumaidi
+	 * Domain   : NMC
+	 * Password : Columbus614
+	kerberos :	
+	 * Username : omar.alhumaidi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1560953741 (00000000:5d0a438d)
+Session           : NetworkCleartext from 0
+User Name         : muhammed.zia
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:20:59 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7674
+	msv :	
+	 [00000003] Primary
+	 * Username : Muhammed.Zia
+	 * Domain   : NMC
+	 * NTLM     : 305d0776861b3c42d7b8c3bf82bd164a
+	 * SHA1     : 510d8c0055076eb1d238121e6b360c8dc86eedeb
+	tspkg :	
+	wdigest :	
+	 * Username : Muhammed.Zia
+	 * Domain   : NMC
+	 * Password : @cce554U499
+	kerberos :	
+	 * Username : muhammed.zia
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1470462752 (00000000:57a57b20)
+Session           : NetworkCleartext from 0
+User Name         : raknmc
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:40:44 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5057
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 5118cf1cb73a31ff1470d6232f22e7f5
+	 * SHA1     : 
+	 * RootKey  : 96f9f025f7079c630f9db619d69bad5ff0eb8dc3
+	 [00000003] Primary
+	 * Username : raknmc
+	 * Domain   : NMC
+	 * NTLM     : 5118cf1cb73a31ff1470d6232f22e7f5
+	 * SHA1     : 96f9f025f7079c630f9db619d69bad5ff0eb8dc3
+	tspkg :	
+	wdigest :	
+	 * Username : raknmc
+	 * Domain   : NMC
+	 * Password : uaE@NMC15
+	kerberos :	
+	 * Username : raknmc
+	 * Domain   : nmc.local
+	 * Password : uaE@NMC15
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1251466637 (00000000:4a97dd8d)
+Session           : NetworkCleartext from 0
+User Name         : nasser
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 4:26:43 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4738
+	msv :	
+	 [00000003] Primary
+	 * Username : nasser
+	 * Domain   : NMC
+	 * NTLM     : c599a560ccc9cf2ebd9734bef2c2f901
+	 * SHA1     : b441e23fd8377a40f3901b951088140ee693fc04
+	tspkg :	
+	wdigest :	
+	 * Username : nasser
+	 * Domain   : NMC
+	 * Password : N824311@1913Nn
+	kerberos :	
+	 * Username : nasser
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803281 (00000000:38f86691)
+Session           : NetworkCleartext from 0
+User Name         : future
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6679
+	msv :	
+	 [00000003] Primary
+	 * Username : future
+	 * Domain   : NMC
+	 * NTLM     : 57bb372c706444759d8c94055a4fb23b
+	 * SHA1     : 4245064d1cb3955f1dda5be5d1dcd5c579f02da8
+	tspkg :	
+	wdigest :	
+	 * Username : future
+	 * Domain   : NMC
+	 * Password : Fut@2017
+	kerberos :	
+	 * Username : future
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 14619641 (00000000:00df13f9)
+Session           : Interactive from 2
+User Name         : DWM-2
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 1/4/2018 1:51:46 PM
+SID               : S-1-5-90-2
+	msv :	
+	 [00000003] Primary
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * NTLM     : f4ef270dbab3b7983c55c1f6716dc465
+	 * SHA1     : 4f77188c7388289fb1f8bb2e003e362562ca4915
+	tspkg :	
+	wdigest :	
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * Password : 52 5e 4a bd e8 2d 55 42 fa 36 d1 a7 dc 6d 6e 88 88 fe cf 2b ed af c7 24 e6 00 59 92 50 3f bc df 17 3b 70 99 05 84 7b 77 7c 31 5e 9f 52 48 fc c8 f3 2e 28 8d d9 0b 4d 21 30 d7 e1 fe 34 c0 51 4a 17 2b 29 61 84 5b be 52 71 ca 20 39 c6 bb c4 06 d0 a9 a3 56 55 19 4d fd 99 2c ff 55 96 e4 f9 39 7e a8 8a 1b 16 ff 58 cf e0 23 d1 d4 81 88 6e 5c af 66 1e c6 c3 cb 54 47 fe 98 8b 61 20 49 e2 50 1a d7 17 d1 9b 48 ed 1d 84 9f 30 67 5a 67 12 99 42 db 9c 0f 67 83 9c 8e 2a 31 3a f9 02 d8 57 9a b1 88 cf e0 f4 78 7a c8 21 94 57 84 88 ab d2 44 1c 01 e8 d7 2e 1a e1 10 5a 43 47 de b4 a3 04 c0 87 d9 14 3a 6d bf 88 ca 52 67 b5 1b c1 f6 88 eb 42 e1 b4 4e 05 25 95 e8 01 6d 86 d0 31 23 67 2b 55 7c 90 bc cb 81 fe 5a 86 ff 67 22 59 dc f0 5a 
+	kerberos :	
+	 * Username : AUHMBXP01$
+	 * Domain   : nmc.local
+	 * Password : 52 5e 4a bd e8 2d 55 42 fa 36 d1 a7 dc 6d 6e 88 88 fe cf 2b ed af c7 24 e6 00 59 92 50 3f bc df 17 3b 70 99 05 84 7b 77 7c 31 5e 9f 52 48 fc c8 f3 2e 28 8d d9 0b 4d 21 30 d7 e1 fe 34 c0 51 4a 17 2b 29 61 84 5b be 52 71 ca 20 39 c6 bb c4 06 d0 a9 a3 56 55 19 4d fd 99 2c ff 55 96 e4 f9 39 7e a8 8a 1b 16 ff 58 cf e0 23 d1 d4 81 88 6e 5c af 66 1e c6 c3 cb 54 47 fe 98 8b 61 20 49 e2 50 1a d7 17 d1 9b 48 ed 1d 84 9f 30 67 5a 67 12 99 42 db 9c 0f 67 83 9c 8e 2a 31 3a f9 02 d8 57 9a b1 88 cf e0 f4 78 7a c8 21 94 57 84 88 ab d2 44 1c 01 e8 d7 2e 1a e1 10 5a 43 47 de b4 a3 04 c0 87 d9 14 3a 6d bf 88 ca 52 67 b5 1b c1 f6 88 eb 42 e1 b4 4e 05 25 95 e8 01 6d 86 d0 31 23 67 2b 55 7c 90 bc cb 81 fe 5a 86 ff 67 22 59 dc f0 5a 
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595382360 (00000000:5f179a58)
+Session           : NetworkCleartext from 0
+User Name         : sherif.temraz
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:38:31 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6925
+	msv :	
+	 [00000003] Primary
+	 * Username : sherif.temraz
+	 * Domain   : NMC
+	 * NTLM     : 7710ff0e28cadc8b3481fd2ae985149e
+	 * SHA1     : 775073b4fbc6ef14fa82b9fc592a9e7a3ac30dcc
+	tspkg :	
+	wdigest :	
+	 * Username : sherif.temraz
+	 * Domain   : NMC
+	 * Password : Wam@sh123
+	kerberos :	
+	 * Username : sherif.temraz
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1581796020 (00000000:5e484ab4)
+Session           : NetworkCleartext from 0
+User Name         : naalameri
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:31:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4911
+	msv :	
+	 [00000003] Primary
+	 * Username : naalameri
+	 * Domain   : NMC
+	 * NTLM     : 9648e2f350917dc2726d60aad5f2bbaa
+	 * SHA1     : affdd66a3fdd884f8584ce11d99441f2379df469
+	tspkg :	
+	wdigest :	
+	 * Username : naalameri
+	 * Domain   : NMC
+	 * Password : Ns6635223
+	kerberos :	
+	 * Username : naalameri
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1571380932 (00000000:5da95ec4)
+Session           : NetworkCleartext from 0
+User Name         : khawla.alali
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:57:55 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7834
+	msv :	
+	 [00000003] Primary
+	 * Username : khawla.alali
+	 * Domain   : NMC
+	 * NTLM     : e9a402c4050e25047a2a9d4f2d67fd2b
+	 * SHA1     : 23c59a1a0680caf2233f51be1f8d5b711b860be4
+	tspkg :	
+	wdigest :	
+	 * Username : khawla.alali
+	 * Domain   : NMC
+	 * Password : Winter2017
+	kerberos :	
+	 * Username : khawla.alali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1548897498 (00000000:5c524cda)
+Session           : NetworkCleartext from 0
+User Name         : kozrail
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 4:31:55 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4592
+	msv :	
+	 [00000003] Primary
+	 * Username : kozrail
+	 * Domain   : NMC
+	 * NTLM     : 1c5be0ae4e05162aac9752366201c5d3
+	 * SHA1     : b6c7946497f060fca0ad444fefc0459878a2a94e
+	tspkg :	
+	wdigest :	
+	 * Username : kozrail
+	 * Domain   : NMC
+	 * Password : Memory1985
+	kerberos :	
+	 * Username : kozrail
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1348722411 (00000000:5063deeb)
+Session           : NetworkCleartext from 0
+User Name         : malmasaabi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 2:41:19 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4133
+	msv :	
+	 [00000003] Primary
+	 * Username : malmasaabi
+	 * Domain   : NMC
+	 * NTLM     : f72097c4b6ecfd6fca39afbca266822b
+	 * SHA1     : aa4cd9cf8470e1d72d8bc7e5e531a154853f4e07
+	tspkg :	
+	wdigest :	
+	 * Username : malmasaabi
+	 * Domain   : NMC
+	 * Password : m@2625577
+	kerberos :	
+	 * Username : malmasaabi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 956116689 (00000000:38fd2ed1)
+Session           : NetworkCleartext from 0
+User Name         : sherif.temraz
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:22:25 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6925
+	msv :	
+	 [00000003] Primary
+	 * Username : sherif.temraz
+	 * Domain   : NMC
+	 * NTLM     : 7710ff0e28cadc8b3481fd2ae985149e
+	 * SHA1     : 775073b4fbc6ef14fa82b9fc592a9e7a3ac30dcc
+	tspkg :	
+	wdigest :	
+	 * Username : sherif.temraz
+	 * Domain   : NMC
+	 * Password : Wam@sh123
+	kerberos :	
+	 * Username : sherif.temraz
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595644051 (00000000:5f1b9893)
+Session           : NetworkCleartext from 0
+User Name         : sameirah.ja
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:40:35 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5233
+	msv :	
+	 [00000003] Primary
+	 * Username : Sameirah.ja
+	 * Domain   : NMC
+	 * NTLM     : 514302a2cd2b1c1d8176c0f3791386d2
+	 * SHA1     : 0207150f8ccf6f254a27142847537746d0f973cb
+	tspkg :	
+	wdigest :	
+	 * Username : Sameirah.ja
+	 * Domain   : NMC
+	 * Password : AA123456a
+	kerberos :	
+	 * Username : sameirah.ja
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595157526 (00000000:5f142c16)
+Session           : NetworkCleartext from 0
+User Name         : zhammadi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:36:47 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4800
+	msv :	
+	 [00000003] Primary
+	 * Username : zhammadi
+	 * Domain   : NMC
+	 * NTLM     : a7899cbf2a9c9b9e48951a8f38c4f9cb
+	 * SHA1     : c19e5805d7624e09331e203ac6ed8b49c4461980
+	tspkg :	
+	wdigest :	
+	 * Username : zhammadi
+	 * Domain   : NMC
+	 * Password : ZH@4471777
+	kerberos :	
+	 * Username : zhammadi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1592911711 (00000000:5ef1e75f)
+Session           : NewCredentials from 0
+User Name         : SYSTEM
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 1/12/2018 11:15:32 PM
+SID               : S-1-5-18
+	msv :	
+	 [00000003] Primary
+	 * Username : anajeeb
+	 * Domain   : 127.0.0.1
+	 * NTLM     : d96757ccdc5a3bca8b1cd07f8871ef41
+	 * SHA1     : a143c2c1a9cb321bcf6069e938d6048ad4cc67c1
+	tspkg :	
+	wdigest :	
+	 * Username : anajeeb
+	 * Domain   : 127.0.0.1
+	 * Password : NAJI@naji
+	kerberos :	
+	 * Username : anajeeb
+	 * Domain   : 127.0.0.1
+	 * Password : NAJI@naji
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1592059294 (00000000:5ee4e59e)
+Session           : NetworkCleartext from 0
+User Name         : amro.raslan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:07:10 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6663
+	msv :	
+	 [00000003] Primary
+	 * Username : amro.raslan
+	 * Domain   : NMC
+	 * NTLM     : f4b68e388efe59bd47d8ac8a500fcf2f
+	 * SHA1     : 771772b77e7743da52d4bb1358e37763cbd76aa8
+	tspkg :	
+	wdigest :	
+	 * Username : amro.raslan
+	 * Domain   : NMC
+	 * Password : Repoxa87*
+	kerberos :	
+	 * Username : amro.raslan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1590463675 (00000000:5ecc8cbb)
+Session           : NetworkCleartext from 0
+User Name         : rami
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:53:14 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4787
+	msv :	
+	 [00000003] Primary
+	 * Username : rami
+	 * Domain   : NMC
+	 * NTLM     : 71893146ced679d60d6bfa1a29e55efd
+	 * SHA1     : 308d785769fcb456ded50495544494a91aefe3f3
+	tspkg :	
+	wdigest :	
+	 * Username : rami
+	 * Domain   : NMC
+	 * Password : Sedra@2017
+	kerberos :	
+	 * Username : rami
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1588901668 (00000000:5eb4b724)
+Session           : NetworkCleartext from 0
+User Name         : robert.butcher
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:39:53 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8135
+	msv :	
+	 [00000003] Primary
+	 * Username : robert.butcher
+	 * Domain   : NMC
+	 * NTLM     : 9f8324bc1c9677b214644c06b6ebeb6c
+	 * SHA1     : 850ba001047a038086f5c00e0dff6722bc186a44
+	tspkg :	
+	wdigest :	
+	 * Username : robert.butcher
+	 * Domain   : NMC
+	 * Password : Bobzy_55
+	kerberos :	
+	 * Username : robert.butcher
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1586158450 (00000000:5e8adb72)
+Session           : NetworkCleartext from 0
+User Name         : rola.alghoul
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:12:47 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6988
+	msv :	
+	 [00000003] Primary
+	 * Username : rola.alghoul
+	 * Domain   : NMC
+	 * NTLM     : e7f9bc9f0fe5ac37dfb3cf3b1211a938
+	 * SHA1     : b6935b38a15db9f7563023c2635050f3f98731c0
+	tspkg :	
+	wdigest :	
+	 * Username : rola.alghoul
+	 * Domain   : NMC
+	 * Password : Wam@2017
+	kerberos :	
+	 * Username : rola.alghoul
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1566471214 (00000000:5d5e742e)
+Session           : NetworkCleartext from 0
+User Name         : saberi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:10:43 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4956
+	msv :	
+	 [00000003] Primary
+	 * Username : saberi
+	 * Domain   : NMC
+	 * NTLM     : 42d03a55bd0df98e25f926f5706e62f9
+	 * SHA1     : eda5f773564941f1f83da629b81f2ab4eed3cf57
+	tspkg :	
+	wdigest :	
+	 * Username : saberi
+	 * Domain   : NMC
+	 * Password : s@5129898
+	kerberos :	
+	 * Username : saberi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1549425046 (00000000:5c5a5996)
+Session           : NetworkCleartext from 0
+User Name         : sshamsi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 4:36:44 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4172
+	msv :	
+	 [00000003] Primary
+	 * Username : sshamsi
+	 * Domain   : NMC
+	 * NTLM     : 662e8d67e60e3f33867ad07413f2b988
+	 * SHA1     : b7b9ba86d192657e07dde2df5ede7a583e984a5b
+	tspkg :	
+	wdigest :	
+	 * Username : sshamsi
+	 * Domain   : NMC
+	 * Password : Sali**5560
+	kerberos :	
+	 * Username : sshamsi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1546001686 (00000000:5c261d16)
+Session           : NetworkCleartext from 0
+User Name         : kozrail
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 4:05:19 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4592
+	msv :	
+	 [00000003] Primary
+	 * Username : kozrail
+	 * Domain   : NMC
+	 * NTLM     : 1c5be0ae4e05162aac9752366201c5d3
+	 * SHA1     : b6c7946497f060fca0ad444fefc0459878a2a94e
+	tspkg :	
+	wdigest :	
+	 * Username : kozrail
+	 * Domain   : NMC
+	 * Password : Memory1985
+	kerberos :	
+	 * Username : kozrail
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1513471249 (00000000:5a35bd11)
+Session           : NetworkCleartext from 0
+User Name         : smile
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 1:16:40 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6916
+	msv :	
+	 [00000003] Primary
+	 * Username : smile
+	 * Domain   : NMC
+	 * NTLM     : f96bf41fed66c7409a856052d28ae4eb
+	 * SHA1     : a084bd0f4ffcba5d57f2c5c07c31dacdab8718da
+	tspkg :	
+	wdigest :	
+	 * Username : smile
+	 * Domain   : NMC
+	 * Password : Sm1Le#2020
+	kerberos :	
+	 * Username : smile
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803331 (00000000:38f866c3)
+Session           : NetworkCleartext from 0
+User Name         : malmalah
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4374
+	msv :	
+	 [00000003] Primary
+	 * Username : malmalah
+	 * Domain   : NMC
+	 * NTLM     : 84618c0fea17f7e31a4c442a714d007c
+	 * SHA1     : fac650b9030a3e21627930c9fd7c7e9487cc4aef
+	tspkg :	
+	wdigest :	
+	 * Username : malmalah
+	 * Domain   : NMC
+	 * Password : Sham6412138
+	kerberos :	
+	 * Username : malmalah
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 122044 (00000000:0001dcbc)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 1/4/2018 12:49:06 PM
+SID               : S-1-5-90-1
+	msv :	
+	 [00000003] Primary
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * NTLM     : f4ef270dbab3b7983c55c1f6716dc465
+	 * SHA1     : 4f77188c7388289fb1f8bb2e003e362562ca4915
+	tspkg :	
+	wdigest :	
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * Password : 52 5e 4a bd e8 2d 55 42 fa 36 d1 a7 dc 6d 6e 88 88 fe cf 2b ed af c7 24 e6 00 59 92 50 3f bc df 17 3b 70 99 05 84 7b 77 7c 31 5e 9f 52 48 fc c8 f3 2e 28 8d d9 0b 4d 21 30 d7 e1 fe 34 c0 51 4a 17 2b 29 61 84 5b be 52 71 ca 20 39 c6 bb c4 06 d0 a9 a3 56 55 19 4d fd 99 2c ff 55 96 e4 f9 39 7e a8 8a 1b 16 ff 58 cf e0 23 d1 d4 81 88 6e 5c af 66 1e c6 c3 cb 54 47 fe 98 8b 61 20 49 e2 50 1a d7 17 d1 9b 48 ed 1d 84 9f 30 67 5a 67 12 99 42 db 9c 0f 67 83 9c 8e 2a 31 3a f9 02 d8 57 9a b1 88 cf e0 f4 78 7a c8 21 94 57 84 88 ab d2 44 1c 01 e8 d7 2e 1a e1 10 5a 43 47 de b4 a3 04 c0 87 d9 14 3a 6d bf 88 ca 52 67 b5 1b c1 f6 88 eb 42 e1 b4 4e 05 25 95 e8 01 6d 86 d0 31 23 67 2b 55 7c 90 bc cb 81 fe 5a 86 ff 67 22 59 dc f0 5a 
+	kerberos :	
+	 * Username : AUHMBXP01$
+	 * Domain   : nmc.local
+	 * Password : 52 5e 4a bd e8 2d 55 42 fa 36 d1 a7 dc 6d 6e 88 88 fe cf 2b ed af c7 24 e6 00 59 92 50 3f bc df 17 3b 70 99 05 84 7b 77 7c 31 5e 9f 52 48 fc c8 f3 2e 28 8d d9 0b 4d 21 30 d7 e1 fe 34 c0 51 4a 17 2b 29 61 84 5b be 52 71 ca 20 39 c6 bb c4 06 d0 a9 a3 56 55 19 4d fd 99 2c ff 55 96 e4 f9 39 7e a8 8a 1b 16 ff 58 cf e0 23 d1 d4 81 88 6e 5c af 66 1e c6 c3 cb 54 47 fe 98 8b 61 20 49 e2 50 1a d7 17 d1 9b 48 ed 1d 84 9f 30 67 5a 67 12 99 42 db 9c 0f 67 83 9c 8e 2a 31 3a f9 02 d8 57 9a b1 88 cf e0 f4 78 7a c8 21 94 57 84 88 ab d2 44 1c 01 e8 d7 2e 1a e1 10 5a 43 47 de b4 a3 04 c0 87 d9 14 3a 6d bf 88 ca 52 67 b5 1b c1 f6 88 eb 42 e1 b4 4e 05 25 95 e8 01 6d 86 d0 31 23 67 2b 55 7c 90 bc cb 81 fe 5a 86 ff 67 22 59 dc f0 5a 
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596021854 (00000000:5f215c5e)
+Session           : NetworkCleartext from 0
+User Name         : HealthMailboxa1a2791
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:43:59 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7624
+	msv :	
+	 [00000003] Primary
+	 * Username : HealthMailboxa1a2791
+	 * Domain   : NMC
+	 * NTLM     : f536130a38389979f4678d11429899d0
+	 * SHA1     : f32624b6e450eae64659d83f0e176295c70cfc99
+	tspkg :	
+	wdigest :	
+	 * Username : HealthMailboxa1a2791
+	 * Domain   : NMC
+	 * Password : R8LE+TSFi6|2{Brj7RHS2qzRL2-wxXK(*jWpdcT*Qa]4!i!H|t6=A^%^-QonpLq]d*-4)Y[V)dDMsCoKpN_TmAEZ+M@tW[mSP1iA2elEkm=yO:d4mWI{[IVmP#7Y2M0*
+	kerberos :	
+	 * Username : HealthMailboxa1a2791
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595015015 (00000000:5f11ff67)
+Session           : NetworkCleartext from 0
+User Name         : smulla
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:34:53 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4845
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 9af1ee6927c0078e25f8a7b2b61af6e7
+	 * SHA1     : 
+	 * RootKey  : eae8127851636d91999acba0323a1f67c9354c03
+	 [00000003] Primary
+	 * Username : smulla
+	 * Domain   : NMC
+	 * NTLM     : 9af1ee6927c0078e25f8a7b2b61af6e7
+	 * SHA1     : eae8127851636d91999acba0323a1f67c9354c03
+	tspkg :	
+	wdigest :	
+	 * Username : smulla
+	 * Domain   : NMC
+	 * Password : 6352676S@s
+	kerberos :	
+	 * Username : smulla
+	 * Domain   : nmc.local
+	 * Password : 6352676S@s
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1591836281 (00000000:5ee17e79)
+Session           : NetworkCleartext from 0
+User Name         : nour.elhajj
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:05:35 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6672
+	msv :	
+	 [00000003] Primary
+	 * Username : nour.elhajj
+	 * Domain   : NMC
+	 * NTLM     : a01dad34c7c720e1e4fda305fd9f5453
+	 * SHA1     : 0428ba1645772064de1586cdddce00c1c48d4805
+	tspkg :	
+	wdigest :	
+	 * Username : nour.elhajj
+	 * Domain   : NMC
+	 * Password : wam@2018
+	kerberos :	
+	 * Username : nour.elhajj
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1591571954 (00000000:5edd75f2)
+Session           : NetworkCleartext from 0
+User Name         : kalameri
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:02:40 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5156
+	msv :	
+	 [00000003] Primary
+	 * Username : KALAMERI
+	 * Domain   : NMC
+	 * NTLM     : 31694abfd24ff916d741f518e955d9f7
+	 * SHA1     : b9f0045a8efeaef8d3cbe0397653399ba14153bb
+	tspkg :	
+	wdigest :	
+	 * Username : KALAMERI
+	 * Domain   : NMC
+	 * Password : uAE@Uea159
+	kerberos :	
+	 * Username : kalameri
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1475627765 (00000000:57f44af5)
+Session           : NetworkCleartext from 0
+User Name         : mohammad.okour
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:28:50 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5483
+	msv :	
+	 [00000003] Primary
+	 * Username : mohammad.okour
+	 * Domain   : NMC
+	 * NTLM     : 53c05162349488e1d4717bcd5afec5db
+	 * SHA1     : 2c92a096e2ff08c1e5808a2f5ad80d8e2c4138b4
+	tspkg :	
+	wdigest :	
+	 * Username : mohammad.okour
+	 * Domain   : NMC
+	 * Password : Lamar@2008
+	kerberos :	
+	 * Username : mohammad.okour
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1470462839 (00000000:57a57b77)
+Session           : NetworkCleartext from 0
+User Name         : raknmc
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:40:44 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5057
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 5118cf1cb73a31ff1470d6232f22e7f5
+	 * SHA1     : 
+	 * RootKey  : 96f9f025f7079c630f9db619d69bad5ff0eb8dc3
+	 [00000003] Primary
+	 * Username : raknmc
+	 * Domain   : NMC
+	 * NTLM     : 5118cf1cb73a31ff1470d6232f22e7f5
+	 * SHA1     : 96f9f025f7079c630f9db619d69bad5ff0eb8dc3
+	tspkg :	
+	wdigest :	
+	 * Username : raknmc
+	 * Domain   : NMC
+	 * Password : uaE@NMC15
+	kerberos :	
+	 * Username : raknmc
+	 * Domain   : nmc.local
+	 * Password : uaE@NMC15
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1459403840 (00000000:56fcbc40)
+Session           : NetworkCleartext from 0
+User Name         : yaqoub.ali
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:53:40 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6684
+	msv :	
+	 [00000003] Primary
+	 * Username : yaqoub.ali
+	 * Domain   : NMC
+	 * NTLM     : 671b604e73b243abbc9bfcfc2900f0c9
+	 * SHA1     : 943da05192096561b4ce2151f4d066405d1d8d88
+	tspkg :	
+	wdigest :	
+	 * Username : yaqoub.ali
+	 * Domain   : NMC
+	 * Password : Saif#1980
+	kerberos :	
+	 * Username : yaqoub.ali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1337374976 (00000000:4fb6b900)
+Session           : NetworkCleartext from 0
+User Name         : alia.altorky
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 1:23:33 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5470
+	msv :	
+	 [00000003] Primary
+	 * Username : Alia.Altorky
+	 * Domain   : NMC
+	 * NTLM     : 8e043eee9a2217bfd48e24fb92dbb167
+	 * SHA1     : 6dbe05883fff66f3acc3f34c812dd6ec7901677c
+	tspkg :	
+	wdigest :	
+	 * Username : Alia.Altorky
+	 * Domain   : NMC
+	 * Password : Ali@2016
+	kerberos :	
+	 * Username : alia.altorky
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1112763386 (00000000:42536bfa)
+Session           : NetworkCleartext from 0
+User Name         : l.almakhmari
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 10:37:42 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5193
+	msv :	
+	 [00000003] Primary
+	 * Username : l.almakhmari
+	 * Domain   : NMC
+	 * NTLM     : 1f3825a99171da8f3a92df3aad2a6c93
+	 * SHA1     : 3d9ad0c0f4f5cdb223911eff22ee71fde9c4edbd
+	tspkg :	
+	wdigest :	
+	 * Username : l.almakhmari
+	 * Domain   : NMC
+	 * Password : nmc@@123456
+	kerberos :	
+	 * Username : l.almakhmari
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1108270541 (00000000:420eddcd)
+Session           : NetworkCleartext from 0
+User Name         : i.jalal
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 10:08:10 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5267
+	msv :	
+	 [00000003] Primary
+	 * Username : I.Jalal
+	 * Domain   : NMC
+	 * NTLM     : a1a5d144164fe3f5a2646a0ce2731de5
+	 * SHA1     : 875e4dea0724e2c6546e68564823521432c92419
+	tspkg :	
+	wdigest :	
+	 * Username : I.Jalal
+	 * Domain   : NMC
+	 * Password : ESRA@2018
+	kerberos :	
+	 * Username : i.jalal
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803344 (00000000:38f866d0)
+Session           : NetworkCleartext from 0
+User Name         : aalwahhabe
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4663
+	msv :	
+	 [00000003] Primary
+	 * Username : aalwahhabe
+	 * Domain   : NMC
+	 * NTLM     : c97b76986af8c4e51157e026ae5c8eef
+	 * SHA1     : 07e742209d1918340d2341a67dcf94065bffbbae
+	tspkg :	
+	wdigest :	
+	 * Username : aalwahhabe
+	 * Domain   : NMC
+	 * Password : fares2003
+	kerberos :	
+	 * Username : aalwahhabe
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595081331 (00000000:5f130273)
+Session           : NetworkCleartext from 0
+User Name         : om.aidarous
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:35:42 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5188
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : f1bf5781bb3ca7e4dbf69deceb154985
+	 * SHA1     : 
+	 * RootKey  : 9e25ac7ec444daaac96d0904e50007c7bf7ede50
+	 [00000003] Primary
+	 * Username : om.aidarous
+	 * Domain   : NMC
+	 * NTLM     : f1bf5781bb3ca7e4dbf69deceb154985
+	 * SHA1     : 9e25ac7ec444daaac96d0904e50007c7bf7ede50
+	tspkg :	
+	wdigest :	
+	 * Username : om.aidarous
+	 * Domain   : NMC
+	 * Password : Barcelona86
+	kerberos :	
+	 * Username : om.aidarous
+	 * Domain   : nmc.local
+	 * Password : Barcelona86
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1592228556 (00000000:5ee77acc)
+Session           : NewCredentials from 0
+User Name         : SYSTEM
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 1/12/2018 11:08:59 PM
+SID               : S-1-5-18
+	msv :	
+	 [00000003] Primary
+	 * Username : anajeeb
+	 * Domain   : 192.168.100.10
+	 * NTLM     : d96757ccdc5a3bca8b1cd07f8871ef41
+	 * SHA1     : a143c2c1a9cb321bcf6069e938d6048ad4cc67c1
+	tspkg :	
+	wdigest :	
+	 * Username : anajeeb
+	 * Domain   : 192.168.100.10
+	 * Password : NAJI@naji
+	kerberos :	
+	 * Username : anajeeb
+	 * Domain   : 192.168.100.10
+	 * Password : NAJI@naji
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1590564318 (00000000:5ece15de)
+Session           : NetworkCleartext from 0
+User Name         : natteq
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:53:52 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4750
+	msv :	
+	 [00000003] Primary
+	 * Username : natteq
+	 * Domain   : NMC
+	 * NTLM     : 143b7ae46b7b108807b655ea8e9726fb
+	 * SHA1     : cf501d49315e8b1b381aa656b7c89064c732b7d2
+	tspkg :	
+	wdigest :	
+	 * Username : natteq
+	 * Domain   : NMC
+	 * Password : Nmc#2018
+	kerberos :	
+	 * Username : natteq
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1580152560 (00000000:5e2f36f0)
+Session           : NetworkCleartext from 0
+User Name         : myahyaei
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:18:10 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4841
+	msv :	
+	 [00000003] Primary
+	 * Username : myahyaei
+	 * Domain   : NMC
+	 * NTLM     : 26e69a2605f4ca0a4e06b300eb392a49
+	 * SHA1     : eee7762c2e2a17ea5e269e8ebd3b80620199e6f9
+	tspkg :	
+	wdigest :	
+	 * Username : myahyaei
+	 * Domain   : NMC
+	 * Password : Mo$ammed
+	kerberos :	
+	 * Username : myahyaei
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1566029007 (00000000:5d57b4cf)
+Session           : NetworkCleartext from 0
+User Name         : helsobky
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:07:14 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4667
+	msv :	
+	 [00000003] Primary
+	 * Username : helsobky
+	 * Domain   : NMC
+	 * NTLM     : cec7c9b19cbb42132fa9c1ef1b439d8d
+	 * SHA1     : 6fd8b254d934ec2c453713ab5345ad9cb5ac179b
+	tspkg :	
+	wdigest :	
+	 * Username : helsobky
+	 * Domain   : NMC
+	 * Password : Fatoma@3455
+	kerberos :	
+	 * Username : helsobky
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1564687467 (00000000:5d433c6b)
+Session           : NetworkCleartext from 0
+User Name         : aabdelazim
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:54:15 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4821
+	msv :	
+	 [00000003] Primary
+	 * Username : aabdelazim
+	 * Domain   : NMC
+	 * NTLM     : 5e0d180517976032bf94dc7a5a431ae5
+	 * SHA1     : c0caddeaf8b60c9284daed04601832d42e83de0f
+	tspkg :	
+	wdigest :	
+	 * Username : aabdelazim
+	 * Domain   : NMC
+	 * Password : ah@2622341
+	kerberos :	
+	 * Username : aabdelazim
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1561947090 (00000000:5d196bd2)
+Session           : NetworkCleartext from 0
+User Name         : ayman
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:29:56 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4679
+	msv :	
+	 [00000003] Primary
+	 * Username : ayman
+	 * Domain   : NMC
+	 * NTLM     : 6e3f4d2fb62cf24ac04434aac400cfe2
+	 * SHA1     : 43029d7e8342818d36cdb7ad65d7d3702d150183
+	tspkg :	
+	wdigest :	
+	 * Username : ayman
+	 * Domain   : NMC
+	 * Password : HAMZAH#2010
+	kerberos :	
+	 * Username : ayman
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1424815677 (00000000:54ecf63d)
+Session           : NetworkCleartext from 0
+User Name         : squbaisi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 1:27:28 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4732
+	msv :	
+	 [00000003] Primary
+	 * Username : squbaisi
+	 * Domain   : NMC
+	 * NTLM     : a36fa771ffc53acc3f66a6ae59c82157
+	 * SHA1     : c4c8bc793fcb2f4afa21c8e87eefc779c7aa68bb
+	tspkg :	
+	wdigest :	
+	 * Username : squbaisi
+	 * Domain   : NMC
+	 * Password : shq2222532$#@!nmc
+	kerberos :	
+	 * Username : squbaisi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1183512432 (00000000:468af770)
+Session           : NetworkCleartext from 0
+User Name         : ahmed.elneimy
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 6:25:33 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6666
+	msv :	
+	 [00000003] Primary
+	 * Username : ahmed.elneimy
+	 * Domain   : NMC
+	 * NTLM     : f0f3cd1f1c30b49b8f417beaae787140
+	 * SHA1     : e1bd7db8caedea071b74170324253a1610751a40
+	tspkg :	
+	wdigest :	
+	 * Username : ahmed.elneimy
+	 * Domain   : NMC
+	 * Password : KIA@2017
+	kerberos :	
+	 * Username : ahmed.elneimy
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1106110326 (00000000:41ede776)
+Session           : NetworkCleartext from 0
+User Name         : omar.salameh
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 9:51:37 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6972
+	msv :	
+	 [00000003] Primary
+	 * Username : omar.salameh
+	 * Domain   : NMC
+	 * NTLM     : fc2d0267ce93c41af5d677a8644235d0
+	 * SHA1     : 38a1a29f451d7b62185c94633f8a829288d2e11a
+	tspkg :	
+	wdigest :	
+	 * Username : omar.salameh
+	 * Domain   : NMC
+	 * Password : @SilverLight
+	kerberos :	
+	 * Username : omar.salameh
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 956089758 (00000000:38fcc59e)
+Session           : NetworkCleartext from 0
+User Name         : alabed
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:22:16 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4661
+	msv :	
+	 [00000003] Primary
+	 * Username : alabed
+	 * Domain   : NMC
+	 * NTLM     : 7cc0829e3c1b2ba2292858362219f2c8
+	 * SHA1     : a95024fcb809edcd1d774235fbb3b1f0eda3744e
+	tspkg :	
+	wdigest :	
+	 * Username : alabed
+	 * Domain   : NMC
+	 * Password : 1brah1m@CBA
+	kerberos :	
+	 * Username : alabed
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : AUHMBXP01$
+Domain            : NMC
+Logon Server      : (null)
+Logon Time        : 1/4/2018 12:49:05 PM
+SID               : S-1-5-20
+	msv :	
+	 [00000003] Primary
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * NTLM     : f4ef270dbab3b7983c55c1f6716dc465
+	 * SHA1     : 4f77188c7388289fb1f8bb2e003e362562ca4915
+	tspkg :	
+	wdigest :	
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * Password : 52 5e 4a bd e8 2d 55 42 fa 36 d1 a7 dc 6d 6e 88 88 fe cf 2b ed af c7 24 e6 00 59 92 50 3f bc df 17 3b 70 99 05 84 7b 77 7c 31 5e 9f 52 48 fc c8 f3 2e 28 8d d9 0b 4d 21 30 d7 e1 fe 34 c0 51 4a 17 2b 29 61 84 5b be 52 71 ca 20 39 c6 bb c4 06 d0 a9 a3 56 55 19 4d fd 99 2c ff 55 96 e4 f9 39 7e a8 8a 1b 16 ff 58 cf e0 23 d1 d4 81 88 6e 5c af 66 1e c6 c3 cb 54 47 fe 98 8b 61 20 49 e2 50 1a d7 17 d1 9b 48 ed 1d 84 9f 30 67 5a 67 12 99 42 db 9c 0f 67 83 9c 8e 2a 31 3a f9 02 d8 57 9a b1 88 cf e0 f4 78 7a c8 21 94 57 84 88 ab d2 44 1c 01 e8 d7 2e 1a e1 10 5a 43 47 de b4 a3 04 c0 87 d9 14 3a 6d bf 88 ca 52 67 b5 1b c1 f6 88 eb 42 e1 b4 4e 05 25 95 e8 01 6d 86 d0 31 23 67 2b 55 7c 90 bc cb 81 fe 5a 86 ff 67 22 59 dc f0 5a 
+	kerberos :	
+	 * Username : auhmbxp01$
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595375419 (00000000:5f177f3b)
+Session           : NetworkCleartext from 0
+User Name         : HealthMailbox7c27c3d
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:38:27 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6620
+	msv :	
+	 [00000003] Primary
+	 * Username : HealthMailbox7c27c3d
+	 * Domain   : NMC
+	 * NTLM     : 5ca7c6660ca62c96dcad07cac7fe0b23
+	 * SHA1     : a69098df7503321dd130a81a661e0c21e711e0f6
+	tspkg :	
+	wdigest :	
+	 * Username : HealthMailbox7c27c3d
+	 * Domain   : NMC
+	 * Password : fD7@M)mq!YTj;5.v?U/ZzsK{Vf?]]S.3V4nehNN2LrcTk5u(|xL$@eZ$$+&Si2@F8UsZ4yUT9IDO.0Ey2&g1FCPuB}W14]0Z/;?{W@vSy|M?%f(2_[3{*y3+RZ|*iB@7
+	kerberos :	
+	 * Username : HealthMailbox7c27c3d
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1590115714 (00000000:5ec73d82)
+Session           : NetworkCleartext from 0
+User Name         : ibrahi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:51:02 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4976
+	msv :	
+	 [00000003] Primary
+	 * Username : Ibrahi
+	 * Domain   : NMC
+	 * NTLM     : 2b82ced72db3564f9f6d6bfaf6c49ae2
+	 * SHA1     : 2dd24f6b4615798a5d0fbaf5cef746c6188bdd47
+	tspkg :	
+	wdigest :	
+	 * Username : Ibrahi
+	 * Domain   : NMC
+	 * Password : safa@3344
+	kerberos :	
+	 * Username : ibrahi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1578860890 (00000000:5e1b815a)
+Session           : NetworkCleartext from 0
+User Name         : mialmansoori
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:07:23 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5269
+	msv :	
+	 [00000003] Primary
+	 * Username : Mialmansoori
+	 * Domain   : NMC
+	 * NTLM     : 1f6cd7db578b34c41d0eff8e640aa306
+	 * SHA1     : 1d24be96bc532c14e60d214996b9ab572b3befd1
+	tspkg :	
+	wdigest :	
+	 * Username : Mialmansoori
+	 * Domain   : NMC
+	 * Password : M@ns1880
+	kerberos :	
+	 * Username : mialmansoori
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1534286719 (00000000:5b735b7f)
+Session           : NetworkCleartext from 0
+User Name         : mshalabi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 2:16:53 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4440
+	msv :	
+	 [00000003] Primary
+	 * Username : mshalabi
+	 * Domain   : NMC
+	 * NTLM     : f8afbd014c6cd95f1dc5cc9c9ddbde36
+	 * SHA1     : 8080a23e02c2e6c4d804413cae5e0a045029556a
+	tspkg :	
+	wdigest :	
+	 * Username : mshalabi
+	 * Domain   : NMC
+	 * Password : SJ!HJ2017
+	kerberos :	
+	 * Username : mshalabi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1377793267 (00000000:521f74f3)
+Session           : NetworkCleartext from 0
+User Name         : future
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 6:36:13 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6679
+	msv :	
+	 [00000003] Primary
+	 * Username : future
+	 * Domain   : NMC
+	 * NTLM     : 57bb372c706444759d8c94055a4fb23b
+	 * SHA1     : 4245064d1cb3955f1dda5be5d1dcd5c579f02da8
+	tspkg :	
+	wdigest :	
+	 * Username : future
+	 * Domain   : NMC
+	 * Password : Fut@2017
+	kerberos :	
+	 * Username : future
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1117984528 (00000000:42a31710)
+Session           : NetworkCleartext from 0
+User Name         : aeida
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 11:09:08 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4797
+	msv :	
+	 [00000003] Primary
+	 * Username : aeida
+	 * Domain   : NMC
+	 * NTLM     : aa714f78de1508cea8f3e1a1cfe4b7a5
+	 * SHA1     : 8711fa1c4f946e2bad7dfe1fc231f036af247936
+	tspkg :	
+	wdigest :	
+	 * Username : aeida
+	 * Domain   : NMC
+	 * Password : Hamza@6164401
+	kerberos :	
+	 * Username : aeida
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803445 (00000000:38f86735)
+Session           : NetworkCleartext from 0
+User Name         : jkrishnan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4435
+	msv :	
+	 [00000003] Primary
+	 * Username : jkrishnan
+	 * Domain   : NMC
+	 * NTLM     : f22d19a564f3975cdaa84d69a5206097
+	 * SHA1     : a39da9ac8e009a3cc5a416b4eaefba1d8322d9db
+	tspkg :	
+	wdigest :	
+	 * Username : jkrishnan
+	 * Domain   : NMC
+	 * Password : Pooravedi@68
+	kerberos :	
+	 * Username : jkrishnan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803421 (00000000:38f8671d)
+Session           : NetworkCleartext from 0
+User Name         : fadi.qayed
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6973
+	msv :	
+	 [00000003] Primary
+	 * Username : fadi.qayed
+	 * Domain   : NMC
+	 * NTLM     : 18f6dce27b8f96f7a13f8d83ee8e7c3f
+	 * SHA1     : eded19a1d6871ef4de665d8af4f9421751f6b631
+	tspkg :	
+	wdigest :	
+	 * Username : fadi.qayed
+	 * Domain   : NMC
+	 * Password : 3ayyadaT3
+	kerberos :	
+	 * Username : fadi.qayed
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596211553 (00000000:5f244161)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:46:02 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595475053 (00000000:5f19046d)
+Session           : NetworkCleartext from 0
+User Name         : ibrahim.ali
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:39:26 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7034
+	msv :	
+	 [00000003] Primary
+	 * Username : Ibrahim.Ali
+	 * Domain   : NMC
+	 * NTLM     : 628939262f72440091f4e54b76ced8ac
+	 * SHA1     : ab45389577b8fad5caf61fc091764c6dca2dc2f7
+	tspkg :	
+	wdigest :	
+	 * Username : Ibrahim.Ali
+	 * Domain   : NMC
+	 * Password : My1andonly
+	kerberos :	
+	 * Username : ibrahim.ali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595364551 (00000000:5f1754c7)
+Session           : NetworkCleartext from 0
+User Name         : fa.alkaabi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:38:16 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5230
+	msv :	
+	 [00000003] Primary
+	 * Username : fa.alkaabi
+	 * Domain   : NMC
+	 * NTLM     : b7a5796bab7d3b3af705cbca1f4c12d2
+	 * SHA1     : c4bb6cc640ea6ba192bf3d3f7b798db380e78a0f
+	tspkg :	
+	wdigest :	
+	 * Username : fa.alkaabi
+	 * Domain   : NMC
+	 * Password : F@tim123
+	kerberos :	
+	 * Username : fa.alkaabi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595108093 (00000000:5f136afd)
+Session           : NetworkCleartext from 0
+User Name         : salama.alhameli
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:36:07 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7017
+	msv :	
+	 [00000003] Primary
+	 * Username : Salama.Alhameli
+	 * Domain   : NMC
+	 * NTLM     : 6ac3db95f7400581d2233961a5bfffdc
+	 * SHA1     : c6a9dfe901ba04ab1f0e33ac021788c193f3b07f
+	tspkg :	
+	wdigest :	
+	 * Username : Salama.Alhameli
+	 * Domain   : NMC
+	 * Password : VOX@2017
+	kerberos :	
+	 * Username : salama.alhameli
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595098382 (00000000:5f13450e)
+Session           : NetworkCleartext from 0
+User Name         : om.aidarous
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:35:57 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5188
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : f1bf5781bb3ca7e4dbf69deceb154985
+	 * SHA1     : 
+	 * RootKey  : 9e25ac7ec444daaac96d0904e50007c7bf7ede50
+	 [00000003] Primary
+	 * Username : om.aidarous
+	 * Domain   : NMC
+	 * NTLM     : f1bf5781bb3ca7e4dbf69deceb154985
+	 * SHA1     : 9e25ac7ec444daaac96d0904e50007c7bf7ede50
+	tspkg :	
+	wdigest :	
+	 * Username : om.aidarous
+	 * Domain   : NMC
+	 * Password : Barcelona86
+	kerberos :	
+	 * Username : om.aidarous
+	 * Domain   : nmc.local
+	 * Password : Barcelona86
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595001941 (00000000:5f11cc55)
+Session           : NetworkCleartext from 0
+User Name         : smulla
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:34:42 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4845
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 9af1ee6927c0078e25f8a7b2b61af6e7
+	 * SHA1     : 
+	 * RootKey  : eae8127851636d91999acba0323a1f67c9354c03
+	 [00000003] Primary
+	 * Username : smulla
+	 * Domain   : NMC
+	 * NTLM     : 9af1ee6927c0078e25f8a7b2b61af6e7
+	 * SHA1     : eae8127851636d91999acba0323a1f67c9354c03
+	tspkg :	
+	wdigest :	
+	 * Username : smulla
+	 * Domain   : NMC
+	 * Password : 6352676S@s
+	kerberos :	
+	 * Username : smulla
+	 * Domain   : nmc.local
+	 * Password : 6352676S@s
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1594012772 (00000000:5f02b464)
+Session           : NetworkCleartext from 0
+User Name         : falhawai
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:25:10 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-3842
+	msv :	
+	 [00000003] Primary
+	 * Username : falhawai
+	 * Domain   : NMC
+	 * NTLM     : 613e9d1b1195573ae756c95fdb8f8f36
+	 * SHA1     : 84ab566a847b42617c84f39296a63968daf4a7fe
+	tspkg :	
+	wdigest :	
+	 * Username : falhawai
+	 * Domain   : NMC
+	 * Password : @Fanmc79
+	kerberos :	
+	 * Username : falhawai
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1592112254 (00000000:5ee5b47e)
+Session           : NetworkCleartext from 0
+User Name         : donald
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:07:51 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8120
+	msv :	
+	 [00000003] Primary
+	 * Username : Donald
+	 * Domain   : NMC
+	 * NTLM     : c3144415fe644fd5e15390d85319e0d0
+	 * SHA1     : d860cdb486af520d6115f772dc6a55b1f23ccc5e
+	tspkg :	
+	wdigest :	
+	 * Username : Donald
+	 * Domain   : NMC
+	 * Password : Expo2020
+	kerberos :	
+	 * Username : donald
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1588645748 (00000000:5eb0cf74)
+Session           : NetworkCleartext from 0
+User Name         : malsuwaidi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:36:38 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4838
+	msv :	
+	 [00000003] Primary
+	 * Username : malsuwaidi
+	 * Domain   : NMC
+	 * NTLM     : c74dda862d66e40328d32df22f0cb6e1
+	 * SHA1     : d7c6a880494b046d78a8fd4f11caacdfb039c4da
+	tspkg :	
+	wdigest :	
+	 * Username : malsuwaidi
+	 * Domain   : NMC
+	 * Password : Allah@11
+	kerberos :	
+	 * Username : malsuwaidi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1582455809 (00000000:5e525c01)
+Session           : NetworkCleartext from 0
+User Name         : waljasmi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:38:18 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4880
+	msv :	
+	 [00000003] Primary
+	 * Username : waljasmi
+	 * Domain   : NMC
+	 * NTLM     : 47efecd03a3a7a56753284dcced33065
+	 * SHA1     : 3b5df79a37c531553decf6d92b88be78e36efce3
+	tspkg :	
+	wdigest :	
+	 * Username : waljasmi
+	 * Domain   : NMC
+	 * Password : Wnmc7299*
+	kerberos :	
+	 * Username : waljasmi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1567660172 (00000000:5d70988c)
+Session           : NetworkCleartext from 0
+User Name         : a.abidi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:22:44 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5194
+	msv :	
+	 [00000003] Primary
+	 * Username : a.abidi
+	 * Domain   : NMC
+	 * NTLM     : 6cc52e3c70b6ccfbd13afe411f9d637a
+	 * SHA1     : e1c8be5f014f56f046a49e6c8b3a574c47ccc008
+	tspkg :	
+	wdigest :	
+	 * Username : a.abidi
+	 * Domain   : NMC
+	 * Password : amaim@79
+	kerberos :	
+	 * Username : a.abidi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1427713151 (00000000:55192c7f)
+Session           : NetworkCleartext from 0
+User Name         : lalhosani
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 1:55:16 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5215
+	msv :	
+	 [00000003] Primary
+	 * Username : lalhosani
+	 * Domain   : NMC
+	 * NTLM     : 23209c0eee3947e126a1e5c1953a856a
+	 * SHA1     : 9a56d10b219a8db8ffc1e14602b4b63b827ba390
+	tspkg :	
+	wdigest :	
+	 * Username : lalhosani
+	 * Domain   : NMC
+	 * Password : Sultan@1974
+	kerberos :	
+	 * Username : lalhosani
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595958726 (00000000:5f2065c6)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:43:36 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1594794687 (00000000:5f0ea2bf)
+Session           : NetworkCleartext from 0
+User Name         : asarhan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:32:18 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4746
+	msv :	
+	 [00000003] Primary
+	 * Username : asarhan
+	 * Domain   : NMC
+	 * NTLM     : 19c9a07f5d2dc71be92121604659a738
+	 * SHA1     : 727891aa12a8c869211bbc5c9bc0182e90828cde
+	tspkg :	
+	wdigest :	
+	 * Username : asarhan
+	 * Domain   : NMC
+	 * Password : 10102@dxB
+	kerberos :	
+	 * Username : asarhan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1594040631 (00000000:5f032137)
+Session           : NetworkCleartext from 0
+User Name         : anajeeb
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:25:25 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-3376
+	msv :	
+	 [00000003] Primary
+	 * Username : anajeeb
+	 * Domain   : NMC
+	 * NTLM     : d96757ccdc5a3bca8b1cd07f8871ef41
+	 * SHA1     : a143c2c1a9cb321bcf6069e938d6048ad4cc67c1
+	tspkg :	
+	wdigest :	
+	 * Username : anajeeb
+	 * Domain   : NMC
+	 * Password : NAJI@naji
+	kerberos :	
+	 * Username : anajeeb
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1588999704 (00000000:5eb63618)
+Session           : NetworkCleartext from 0
+User Name         : rali
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:40:37 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4745
+	msv :	
+	 [00000003] Primary
+	 * Username : rali
+	 * Domain   : NMC
+	 * NTLM     : 75ea84eb31b530f61154c6cfebeda9fc
+	 * SHA1     : caa4430b9c44993f3ae56bddb9b47224322ac3a1
+	tspkg :	
+	wdigest :	
+	 * Username : rali
+	 * Domain   : NMC
+	 * Password : Roodah1234$
+	kerberos :	
+	 * Username : rali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1584071343 (00000000:5e6b02af)
+Session           : NetworkCleartext from 0
+User Name         : itsupport
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 9:53:35 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5237
+	msv :	
+	 [00000003] Primary
+	 * Username : itsupport
+	 * Domain   : NMC
+	 * NTLM     : 9aeee51c8db55696c2af5ade7e20ce23
+	 * SHA1     : 434e10b2ce71129d28cc507e3a9449393b49668f
+	tspkg :	
+	wdigest :	
+	 * Username : itsupport
+	 * Domain   : NMC
+	 * Password : iphone@999
+	kerberos :	
+	 * Username : itsupport
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1578820467 (00000000:5e1ae373)
+Session           : NetworkCleartext from 0
+User Name         : mkilani
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:06:46 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-3963
+	msv :	
+	 [00000003] Primary
+	 * Username : mkilani
+	 * Domain   : NMC
+	 * NTLM     : d85645f5f9b3f723045006466500e3a4
+	 * SHA1     : 23789123e01813f4958d60f14db6f7529c6f80f1
+	tspkg :	
+	wdigest :	
+	 * Username : mkilani
+	 * Domain   : NMC
+	 * Password : hgvplk1@lih
+	kerberos :	
+	 * Username : mkilani
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1458189147 (00000000:56ea335b)
+Session           : NetworkCleartext from 0
+User Name         : ahmed.alshamsi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:43:15 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5435
+	msv :	
+	 [00000003] Primary
+	 * Username : Ahmed.alshamsi
+	 * Domain   : NMC
+	 * NTLM     : 5ef060b70aaea9ab294ecc65cc705b35
+	 * SHA1     : c5292990fe5441c4a6b4bebf5edb53d665e29366
+	tspkg :	
+	wdigest :	
+	 * Username : Ahmed.alshamsi
+	 * Domain   : NMC
+	 * Password : Rashed@1323
+	kerberos :	
+	 * Username : ahmed.alshamsi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1159257360 (00000000:4518dd10)
+Session           : NetworkCleartext from 0
+User Name         : karthick.rajan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 3:15:26 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8143
+	msv :	
+	 [00000003] Primary
+	 * Username : karthick.rajan
+	 * Domain   : NMC
+	 * NTLM     : 7465e60a3806eef99751dd177430e474
+	 * SHA1     : d1361aea4cc0d0a879e41b0aaaece8d7470e44f0
+	tspkg :	
+	wdigest :	
+	 * Username : karthick.rajan
+	 * Domain   : NMC
+	 * Password : UAE#2017
+	kerberos :	
+	 * Username : karthick.rajan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803399 (00000000:38f86707)
+Session           : NetworkCleartext from 0
+User Name         : salem
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5123
+	msv :	
+	 [00000003] Primary
+	 * Username : salem
+	 * Domain   : NMC
+	 * NTLM     : 020b377ce3e367196364a4b65baa69cb
+	 * SHA1     : 7dd7ecbaeb6c1e80b3f781b7e0c607bad2ea2ef7
+	tspkg :	
+	wdigest :	
+	 * Username : salem
+	 * Domain   : NMC
+	 * Password : Alain=1964
+	kerberos :	
+	 * Username : salem
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1592490556 (00000000:5eeb7a3c)
+Session           : NetworkCleartext from 0
+User Name         : ksaeed
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:11:33 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4755
+	msv :	
+	 [00000003] Primary
+	 * Username : ksaeed
+	 * Domain   : NMC
+	 * NTLM     : 649aa5ec2ed30baa7821678a15d9117e
+	 * SHA1     : 50c2a14acce2e9e94d4972102ca55c96a142cb51
+	tspkg :	
+	wdigest :	
+	 * Username : ksaeed
+	 * Domain   : NMC
+	 * Password : Rashed5723
+	kerberos :	
+	 * Username : ksaeed
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1541632237 (00000000:5be370ed)
+Session           : NetworkCleartext from 0
+User Name         : abaleem
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 3:24:10 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4720
+	msv :	
+	 [00000003] Primary
+	 * Username : abaleem
+	 * Domain   : NMC
+	 * NTLM     : 39250fa189cf3fd560cc1d3dbe298abc
+	 * SHA1     : 593fc61fef23ce7ecafe45743263b0932dca52bf
+	tspkg :	
+	wdigest :	
+	 * Username : abaleem
+	 * Domain   : NMC
+	 * Password : abdu11@22
+	kerberos :	
+	 * Username : abaleem
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1519168183 (00000000:5a8caab7)
+Session           : NetworkCleartext from 0
+User Name         : itsupport
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 1:22:03 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5237
+	msv :	
+	 [00000003] Primary
+	 * Username : itsupport
+	 * Domain   : NMC
+	 * NTLM     : 9aeee51c8db55696c2af5ade7e20ce23
+	 * SHA1     : 434e10b2ce71129d28cc507e3a9449393b49668f
+	tspkg :	
+	wdigest :	
+	 * Username : itsupport
+	 * Domain   : NMC
+	 * Password : iphone@999
+	kerberos :	
+	 * Username : itsupport
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1518777037 (00000000:5a86b2cd)
+Session           : NetworkCleartext from 0
+User Name         : amenem
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 1:21:40 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4881
+	msv :	
+	 [00000003] Primary
+	 * Username : amenem
+	 * Domain   : NMC
+	 * NTLM     : 972e29a45c6303411c8cddfb920cff52
+	 * SHA1     : 37ed8583b79083a7504af86e83341629ea6b76ee
+	tspkg :	
+	wdigest :	
+	 * Username : amenem
+	 * Domain   : NMC
+	 * Password : je2005@7
+	kerberos :	
+	 * Username : amenem
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955804648 (00000000:38f86be8)
+Session           : NetworkCleartext from 0
+User Name         : ali.alqallaf
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6930
+	msv :	
+	 [00000003] Primary
+	 * Username : Ali.AlQallaf
+	 * Domain   : NMC
+	 * NTLM     : 16a856b15323e03c90ad704f77666651
+	 * SHA1     : 0c2eaf048fc3941911f73cc791b7bd1eb804cafe
+	tspkg :	
+	wdigest :	
+	 * Username : Ali.AlQallaf
+	 * Domain   : NMC
+	 * Password : Alucard_1989
+	kerberos :	
+	 * Username : ali.alqallaf
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803871 (00000000:38f868df)
+Session           : NetworkCleartext from 0
+User Name         : entesar
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4908
+	msv :	
+	 [00000003] Primary
+	 * Username : entesar
+	 * Domain   : NMC
+	 * NTLM     : 7053d00069b6d0eb2ba4fdf471f3f79d
+	 * SHA1     : 247e0bc6f1d6f3fcf5c6aa2125ab86d97f0135a1
+	tspkg :	
+	wdigest :	
+	 * Username : entesar
+	 * Domain   : NMC
+	 * Password : 1999E3e22
+	kerberos :	
+	 * Username : entesar
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 7260193 (00000000:006ec821)
+Session           : NetworkCleartext from 0
+User Name         : HealthMailbox7c27c3d
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/4/2018 1:09:34 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6620
+	msv :	
+	 [00000003] Primary
+	 * Username : HealthMailbox7c27c3d
+	 * Domain   : NMC
+	 * NTLM     : 5ca7c6660ca62c96dcad07cac7fe0b23
+	 * SHA1     : a69098df7503321dd130a81a661e0c21e711e0f6
+	tspkg :	
+	wdigest :	
+	 * Username : HealthMailbox7c27c3d
+	 * Domain   : NMC
+	 * Password : fD7@M)mq!YTj;5.v?U/ZzsK{Vf?]]S.3V4nehNN2LrcTk5u(|xL$@eZ$$+&Si2@F8UsZ4yUT9IDO.0Ey2&g1FCPuB}W14]0Z/;?{W@vSy|M?%f(2_[3{*y3+RZ|*iB@7
+	kerberos :	
+	 * Username : HealthMailbox7c27c3d
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595867696 (00000000:5f1f0230)
+Session           : NetworkCleartext from 0
+User Name         : HealthMailbox7c27c3d
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:42:27 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6620
+	msv :	
+	 [00000003] Primary
+	 * Username : HealthMailbox7c27c3d
+	 * Domain   : NMC
+	 * NTLM     : 5ca7c6660ca62c96dcad07cac7fe0b23
+	 * SHA1     : a69098df7503321dd130a81a661e0c21e711e0f6
+	tspkg :	
+	wdigest :	
+	 * Username : HealthMailbox7c27c3d
+	 * Domain   : NMC
+	 * Password : fD7@M)mq!YTj;5.v?U/ZzsK{Vf?]]S.3V4nehNN2LrcTk5u(|xL$@eZ$$+&Si2@F8UsZ4yUT9IDO.0Ey2&g1FCPuB}W14]0Z/;?{W@vSy|M?%f(2_[3{*y3+RZ|*iB@7
+	kerberos :	
+	 * Username : HealthMailbox7c27c3d
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595190449 (00000000:5f14acb1)
+Session           : NetworkCleartext from 0
+User Name         : karthick.rajan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:37:03 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8143
+	msv :	
+	 [00000003] Primary
+	 * Username : karthick.rajan
+	 * Domain   : NMC
+	 * NTLM     : 7465e60a3806eef99751dd177430e474
+	 * SHA1     : d1361aea4cc0d0a879e41b0aaaece8d7470e44f0
+	tspkg :	
+	wdigest :	
+	 * Username : karthick.rajan
+	 * Domain   : NMC
+	 * Password : UAE#2017
+	kerberos :	
+	 * Username : karthick.rajan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595121125 (00000000:5f139de5)
+Session           : NetworkCleartext from 0
+User Name         : dgoffice
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:36:15 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7027
+	msv :	
+	 [00000003] Primary
+	 * Username : dgoffice
+	 * Domain   : NMC
+	 * NTLM     : c2b0fa62a84ebdb0310d0b7c48fec2a1
+	 * SHA1     : ede5278384b5257bbbcd8eaff265281f7233f265
+	tspkg :	
+	wdigest :	
+	 * Username : dgoffice
+	 * Domain   : NMC
+	 * Password : VIP@2017
+	kerberos :	
+	 * Username : dgoffice
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595121077 (00000000:5f139db5)
+Session           : NetworkCleartext from 0
+User Name         : mtarmanini
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:36:15 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4963
+	msv :	
+	 [00000003] Primary
+	 * Username : mtarmanini
+	 * Domain   : NMC
+	 * NTLM     : 6c737f957ce194c1a6bea55c479bf7da
+	 * SHA1     : f24517d22c5ee1d3dc864612c486840a4ffd3dfd
+	tspkg :	
+	wdigest :	
+	 * Username : mtarmanini
+	 * Domain   : NMC
+	 * Password : Rushy2001
+	kerberos :	
+	 * Username : mtarmanini
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1593904391 (00000000:5f010d07)
+Session           : NetworkCleartext from 0
+User Name         : helsobky
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:24:25 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4667
+	msv :	
+	 [00000003] Primary
+	 * Username : helsobky
+	 * Domain   : NMC
+	 * NTLM     : cec7c9b19cbb42132fa9c1ef1b439d8d
+	 * SHA1     : 6fd8b254d934ec2c453713ab5345ad9cb5ac179b
+	tspkg :	
+	wdigest :	
+	 * Username : helsobky
+	 * Domain   : NMC
+	 * Password : Fatoma@3455
+	kerberos :	
+	 * Username : helsobky
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1580528750 (00000000:5e34f46e)
+Session           : NetworkCleartext from 0
+User Name         : rbasiouny
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:21:14 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4665
+	msv :	
+	 [00000003] Primary
+	 * Username : rbasiouny
+	 * Domain   : NMC
+	 * NTLM     : f7d9702141dce31ed3a2a48db41c0ca9
+	 * SHA1     : 900004bf350bc6ebec24cee466561e2151c040e6
+	tspkg :	
+	wdigest :	
+	 * Username : rbasiouny
+	 * Domain   : NMC
+	 * Password : Ah@541981
+	kerberos :	
+	 * Username : rbasiouny
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1547833235 (00000000:5c420f93)
+Session           : NetworkCleartext from 0
+User Name         : myousef
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 4:21:35 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4776
+	msv :	
+	 [00000003] Primary
+	 * Username : myousef
+	 * Domain   : NMC
+	 * NTLM     : 129cee028d07446bffc512611f97784f
+	 * SHA1     : 29dc676c4538964cf24bbc29d5269318eb06727f
+	tspkg :	
+	wdigest :	
+	 * Username : myousef
+	 * Domain   : NMC
+	 * Password : 74111238@mA
+	kerberos :	
+	 * Username : myousef
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1495964630 (00000000:592a9bd6)
+Session           : NetworkCleartext from 0
+User Name         : mohammad.alawneh
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 12:21:29 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6667
+	msv :	
+	 [00000003] Primary
+	 * Username : mohammad.alAwneh
+	 * Domain   : NMC
+	 * NTLM     : 003349bc5d03bbc01a30a7b740a585cb
+	 * SHA1     : cb2a82cb899c590241cf11159fb77557d6f70ae3
+	tspkg :	
+	wdigest :	
+	 * Username : mohammad.alAwneh
+	 * Domain   : NMC
+	 * Password : mohd@1988
+	kerberos :	
+	 * Username : mohammad.alawneh
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1106822729 (00000000:41f8c649)
+Session           : NetworkCleartext from 0
+User Name         : alya.alali
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/10/2018 9:56:45 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5220
+	msv :	
+	 [00000003] Primary
+	 * Username : Alya.AlAli
+	 * Domain   : NMC
+	 * NTLM     : 1f019bcdc02e2ca083dadb9695790a16
+	 * SHA1     : 718ccd3ff47cb8a63286334c5285a9856ee5733b
+	tspkg :	
+	wdigest :	
+	 * Username : Alya.AlAli
+	 * Domain   : NMC
+	 * Password : z_198633
+	kerberos :	
+	 * Username : alya.alali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803812 (00000000:38f868a4)
+Session           : NetworkCleartext from 0
+User Name         : saraali
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4740
+	msv :	
+	 [00000003] Primary
+	 * Username : saraali
+	 * Domain   : NMC
+	 * NTLM     : 86d6ddde594c659ce65a893f833cd792
+	 * SHA1     : c659107b0806c5f50586a1b45b4866ecadee4cd2
+	tspkg :	
+	wdigest :	
+	 * Username : saraali
+	 * Domain   : NMC
+	 * Password : dior@2018
+	kerberos :	
+	 * Username : saraali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596149445 (00000000:5f234ec5)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:45:10 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1593794772 (00000000:5eff60d4)
+Session           : NetworkCleartext from 0
+User Name         : m.juma
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:23:27 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5205
+	msv :	
+	 [00000003] Primary
+	 * Username : m.juma
+	 * Domain   : NMC
+	 * NTLM     : ec98cfbe928b9bc5e71770bf3b4228d7
+	 * SHA1     : 943eb520392a6771f1bfcf59c3c1153496fdedbd
+	tspkg :	
+	wdigest :	
+	 * Username : m.juma
+	 * Domain   : NMC
+	 * Password : B0th@ni#22
+	kerberos :	
+	 * Username : m.juma
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1590673038 (00000000:5ecfbe8e)
+Session           : NetworkCleartext from 0
+User Name         : hali
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:54:41 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4888
+	msv :	
+	 [00000003] Primary
+	 * Username : hali
+	 * Domain   : NMC
+	 * NTLM     : 17e3aca5f9d76720277b8c03ee34587f
+	 * SHA1     : 8a67a3858552dcb2778de32896f202c541db1343
+	tspkg :	
+	wdigest :	
+	 * Username : hali
+	 * Domain   : NMC
+	 * Password : MaD1@MaD1
+	kerberos :	
+	 * Username : hali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1572747792 (00000000:5dbe3a10)
+Session           : NetworkCleartext from 0
+User Name         : a.alshamsi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:11:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6923
+	msv :	
+	 [00000003] Primary
+	 * Username : a.alshamsi
+	 * Domain   : NMC
+	 * NTLM     : 44df01754e042c189aeba85d92d2e388
+	 * SHA1     : 59165d2b5bff407c5c65c3ba35ae100fd10d98f4
+	tspkg :	
+	wdigest :	
+	 * Username : a.alshamsi
+	 * Domain   : NMC
+	 * Password : alain$1992
+	kerberos :	
+	 * Username : a.alshamsi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1562824623 (00000000:5d26cfaf)
+Session           : NetworkCleartext from 0
+User Name         : ghofran.hazaymeh
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:38:26 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6705
+	msv :	
+	 [00000003] Primary
+	 * Username : Ghofran.hazaymeh
+	 * Domain   : NMC
+	 * NTLM     : a277f6c1601abec3f275d7a582f045ce
+	 * SHA1     : 803657fb7f9821304367074b9d56c90d28b487ba
+	tspkg :	
+	wdigest :	
+	 * Username : Ghofran.hazaymeh
+	 * Domain   : NMC
+	 * Password : GASRJM@2017
+	kerberos :	
+	 * Username : ghofran.hazaymeh
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1557896940 (00000000:5cdb9eec)
+Session           : NetworkCleartext from 0
+User Name         : alisalem
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 5:51:49 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4462
+	msv :	
+	 [00000003] Primary
+	 * Username : alisalem
+	 * Domain   : NMC
+	 * NTLM     : ac972c72f6da7a16b5ded9724eb801eb
+	 * SHA1     : c8b804373a053ebceaf5d8db8be21abce97ee087
+	tspkg :	
+	wdigest :	
+	 * Username : alisalem
+	 * Domain   : NMC
+	 * Password : Zalain@1973#
+	kerberos :	
+	 * Username : alisalem
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1352406543 (00000000:509c160f)
+Session           : NetworkCleartext from 0
+User Name         : sanaa
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 3:05:59 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4784
+	msv :	
+	 [00000003] Primary
+	 * Username : sanaa
+	 * Domain   : NMC
+	 * NTLM     : 74f7d146b29622eda358b35d3d41294a
+	 * SHA1     : e0ac4a1a4fb4a89134f39b60d41d095d0d9429ce
+	tspkg :	
+	wdigest :	
+	 * Username : sanaa
+	 * Domain   : NMC
+	 * Password : Topsecret@69
+	kerberos :	
+	 * Username : sanaa
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955738413 (00000000:38f7692d)
+Session           : NetworkCleartext from 0
+User Name         : HealthMailbox2336d8f
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:17 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6619
+	msv :	
+	 [00000003] Primary
+	 * Username : HealthMailbox2336d8f
+	 * Domain   : NMC
+	 * NTLM     : 37b253e62e51e080c0648b809d8406c5
+	 * SHA1     : 46449c6930584340225c1ad673b8a1bb003d0500
+	tspkg :	
+	wdigest :	
+	 * Username : HealthMailbox2336d8f
+	 * Domain   : NMC
+	 * Password : 2k{+kE}i)@%C85eInm%g-^uiHGz*Jk(}MV(-14*]!j7voPn/=:=2SBc[ZAxFhxUhcwF2KYi:#]OtTIg)&.%}HTa%[:ZlNS-2Cu4IF&2.rD;;nS-w2_x&0T3wV6|x7(kx
+	kerberos :	
+	 * Username : HealthMailbox2336d8f
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 9192171 (00000000:008c42eb)
+Session           : NetworkCleartext from 0
+User Name         : ikatan
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/4/2018 1:15:07 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4819
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : ff505d7872652f36cc17b541bf61e2e7
+	 * SHA1     : 
+	 * RootKey  : da39cf18bd70119bdef21119a56dbea3177c4548
+	 [00000003] Primary
+	 * Username : ikatan
+	 * Domain   : NMC
+	 * NTLM     : ff505d7872652f36cc17b541bf61e2e7
+	 * SHA1     : da39cf18bd70119bdef21119a56dbea3177c4548
+	tspkg :	
+	wdigest :	
+	 * Username : ikatan
+	 * Domain   : NMC
+	 * Password : Uae_2017
+	kerberos :	
+	 * Username : ikatan
+	 * Domain   : nmc.local
+	 * Password : Uae_2017
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596027349 (00000000:5f2171d5)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:44:05 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595160460 (00000000:5f14378c)
+Session           : NetworkCleartext from 0
+User Name         : nadia
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:36:49 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4958
+	msv :	
+	 [00000003] Primary
+	 * Username : nadia
+	 * Domain   : NMC
+	 * NTLM     : 5b653a346e195563af576a9bae179f5c
+	 * SHA1     : 72277b013e99f9841d3057e4f86416ade30af551
+	tspkg :	
+	wdigest :	
+	 * Username : nadia
+	 * Domain   : NMC
+	 * Password : @dala@N123
+	kerberos :	
+	 * Username : nadia
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595001520 (00000000:5f11cab0)
+Session           : NetworkCleartext from 0
+User Name         : smulla
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:34:42 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4845
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 9af1ee6927c0078e25f8a7b2b61af6e7
+	 * SHA1     : 
+	 * RootKey  : eae8127851636d91999acba0323a1f67c9354c03
+	 [00000003] Primary
+	 * Username : smulla
+	 * Domain   : NMC
+	 * NTLM     : 9af1ee6927c0078e25f8a7b2b61af6e7
+	 * SHA1     : eae8127851636d91999acba0323a1f67c9354c03
+	tspkg :	
+	wdigest :	
+	 * Username : smulla
+	 * Domain   : NMC
+	 * Password : 6352676S@s
+	kerberos :	
+	 * Username : smulla
+	 * Domain   : nmc.local
+	 * Password : 6352676S@s
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1594460920 (00000000:5f098af8)
+Session           : NetworkCleartext from 0
+User Name         : alshaiba
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:29:15 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4944
+	msv :	
+	 [00000003] Primary
+	 * Username : alshaiba
+	 * Domain   : NMC
+	 * NTLM     : b3e288c843411b2a634259f061670e03
+	 * SHA1     : a68876d4350dee457f0a7d8a4655ae01484b3055
+	tspkg :	
+	wdigest :	
+	 * Username : alshaiba
+	 * Domain   : NMC
+	 * Password : Safiya1964
+	kerberos :	
+	 * Username : alshaiba
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1572260194 (00000000:5db6c962)
+Session           : NetworkCleartext from 0
+User Name         : shurouq.qudaih
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:06:43 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6991
+	msv :	
+	 [00000003] Primary
+	 * Username : shurouq.qudaih
+	 * Domain   : NMC
+	 * NTLM     : fb161fe9691bee1893c7391e7983ea18
+	 * SHA1     : 6a91b4325383b2099c39fb83f137ceaa054437fc
+	tspkg :	
+	wdigest :	
+	 * Username : shurouq.qudaih
+	 * Domain   : NMC
+	 * Password : Mediaqd@2017
+	kerberos :	
+	 * Username : shurouq.qudaih
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1561595296 (00000000:5d140da0)
+Session           : NetworkCleartext from 0
+User Name         : m.almarar
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:26:50 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5190
+	msv :	
+	 [00000003] Primary
+	 * Username : M.Almarar
+	 * Domain   : NMC
+	 * NTLM     : e807f46770fa3b8acef8faedb5eb74c9
+	 * SHA1     : 2b0d537c2f177b0e0fd8888b45c91d2326398d59
+	tspkg :	
+	wdigest :	
+	 * Username : M.Almarar
+	 * Domain   : NMC
+	 * Password : M@23rar23
+	kerberos :	
+	 * Username : m.almarar
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1547812822 (00000000:5c41bfd6)
+Session           : NetworkCleartext from 0
+User Name         : wagih
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 4:21:16 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5471
+	msv :	
+	 [00000003] Primary
+	 * Username : Wagih
+	 * Domain   : NMC
+	 * NTLM     : ea060349cebf635a994a124b23e84788
+	 * SHA1     : 92bf2da23a1a6a48eaa6d1e0c88d373e30f06187
+	tspkg :	
+	wdigest :	
+	 * Username : Wagih
+	 * Domain   : NMC
+	 * Password : Eme@6710420
+	kerberos :	
+	 * Username : wagih
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1486181923 (00000000:58955623)
+Session           : NetworkCleartext from 0
+User Name         : nuha.alrayssi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:04:56 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5364
+	msv :	
+	 [00000003] Primary
+	 * Username : Nuha.Alrayssi
+	 * Domain   : NMC
+	 * NTLM     : b261445e027b27470baebb065616b11d
+	 * SHA1     : f04d093804cfb231fd30b223f23d2faf274ce898
+	tspkg :	
+	wdigest :	
+	 * Username : Nuha.Alrayssi
+	 * Domain   : NMC
+	 * Password : Ei*#Da51
+	kerberos :	
+	 * Username : nuha.alrayssi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1435993672 (00000000:55978648)
+Session           : NetworkCleartext from 0
+User Name         : khasan
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 3:14:00 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5014
+	msv :	
+	 [00000003] Primary
+	 * Username : khasan
+	 * Domain   : NMC
+	 * NTLM     : 473f825fdedafb9b237445dfe36cae8b
+	 * SHA1     : 86d1dfd13fbbd9c3ebbbb8a8c7f8cb3ca7e70e23
+	tspkg :	
+	wdigest :	
+	 * Username : khasan
+	 * Domain   : NMC
+	 * Password : k@1261979
+	kerberos :	
+	 * Username : khasan
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 9193180 (00000000:008c46dc)
+Session           : NetworkCleartext from 0
+User Name         : A.AlMehri
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/4/2018 1:15:08 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5203
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 435937f2aebe06f7ace38f302f45d59f
+	 * SHA1     : 
+	 * RootKey  : 834f233afcd48f157c53db4b9fcaabe9feaf2259
+	 [00000003] Primary
+	 * Username : A.AlMehri
+	 * Domain   : NMC
+	 * NTLM     : 435937f2aebe06f7ace38f302f45d59f
+	 * SHA1     : 834f233afcd48f157c53db4b9fcaabe9feaf2259
+	tspkg :	
+	wdigest :	
+	 * Username : A.AlMehri
+	 * Domain   : NMC
+	 * Password : ahmad@11121978
+	kerberos :	
+	 * Username : A.AlMehri
+	 * Domain   : nmc.local
+	 * Password : ahmad@11121978
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 122017 (00000000:0001dca1)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 1/4/2018 12:49:06 PM
+SID               : S-1-5-90-1
+	msv :	
+	 [00000003] Primary
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * NTLM     : f4ef270dbab3b7983c55c1f6716dc465
+	 * SHA1     : 4f77188c7388289fb1f8bb2e003e362562ca4915
+	tspkg :	
+	wdigest :	
+	 * Username : AUHMBXP01$
+	 * Domain   : NMC
+	 * Password : 52 5e 4a bd e8 2d 55 42 fa 36 d1 a7 dc 6d 6e 88 88 fe cf 2b ed af c7 24 e6 00 59 92 50 3f bc df 17 3b 70 99 05 84 7b 77 7c 31 5e 9f 52 48 fc c8 f3 2e 28 8d d9 0b 4d 21 30 d7 e1 fe 34 c0 51 4a 17 2b 29 61 84 5b be 52 71 ca 20 39 c6 bb c4 06 d0 a9 a3 56 55 19 4d fd 99 2c ff 55 96 e4 f9 39 7e a8 8a 1b 16 ff 58 cf e0 23 d1 d4 81 88 6e 5c af 66 1e c6 c3 cb 54 47 fe 98 8b 61 20 49 e2 50 1a d7 17 d1 9b 48 ed 1d 84 9f 30 67 5a 67 12 99 42 db 9c 0f 67 83 9c 8e 2a 31 3a f9 02 d8 57 9a b1 88 cf e0 f4 78 7a c8 21 94 57 84 88 ab d2 44 1c 01 e8 d7 2e 1a e1 10 5a 43 47 de b4 a3 04 c0 87 d9 14 3a 6d bf 88 ca 52 67 b5 1b c1 f6 88 eb 42 e1 b4 4e 05 25 95 e8 01 6d 86 d0 31 23 67 2b 55 7c 90 bc cb 81 fe 5a 86 ff 67 22 59 dc f0 5a 
+	kerberos :	
+	 * Username : AUHMBXP01$
+	 * Domain   : nmc.local
+	 * Password : 52 5e 4a bd e8 2d 55 42 fa 36 d1 a7 dc 6d 6e 88 88 fe cf 2b ed af c7 24 e6 00 59 92 50 3f bc df 17 3b 70 99 05 84 7b 77 7c 31 5e 9f 52 48 fc c8 f3 2e 28 8d d9 0b 4d 21 30 d7 e1 fe 34 c0 51 4a 17 2b 29 61 84 5b be 52 71 ca 20 39 c6 bb c4 06 d0 a9 a3 56 55 19 4d fd 99 2c ff 55 96 e4 f9 39 7e a8 8a 1b 16 ff 58 cf e0 23 d1 d4 81 88 6e 5c af 66 1e c6 c3 cb 54 47 fe 98 8b 61 20 49 e2 50 1a d7 17 d1 9b 48 ed 1d 84 9f 30 67 5a 67 12 99 42 db 9c 0f 67 83 9c 8e 2a 31 3a f9 02 d8 57 9a b1 88 cf e0 f4 78 7a c8 21 94 57 84 88 ab d2 44 1c 01 e8 d7 2e 1a e1 10 5a 43 47 de b4 a3 04 c0 87 d9 14 3a 6d bf 88 ca 52 67 b5 1b c1 f6 88 eb 42 e1 b4 4e 05 25 95 e8 01 6d 86 d0 31 23 67 2b 55 7c 90 bc cb 81 fe 5a 86 ff 67 22 59 dc f0 5a 
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1596224576 (00000000:5f247440)
+Session           : NetworkCleartext from 0
+User Name         : mobileprinting
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:46:11 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6665
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 
+	 * RootKey  : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	 [00000003] Primary
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * NTLM     : 93fa5e41095a191aa9a5b941378681ba
+	 * SHA1     : 872dc7fb0f205479e6b86c8c2ddafc638f6d7833
+	tspkg :	
+	wdigest :	
+	 * Username : mobileprinting
+	 * Domain   : NMC
+	 * Password : PRINT$2016
+	kerberos :	
+	 * Username : mobileprinting
+	 * Domain   : nmc.local
+	 * Password : PRINT$2016
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595474525 (00000000:5f19025d)
+Session           : NetworkCleartext from 0
+User Name         : mnaqbi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 11:39:26 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4892
+	msv :	
+	 [00000003] Primary
+	 * Username : mnaqbi
+	 * Domain   : NMC
+	 * NTLM     : 71d5f313ee68a51a99aece769c7b95d5
+	 * SHA1     : d9ff114d30aacf6ac219713a7e5041110a32afd0
+	tspkg :	
+	wdigest :	
+	 * Username : mnaqbi
+	 * Domain   : NMC
+	 * Password : MOD@2017
+	kerberos :	
+	 * Username : mnaqbi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1566275930 (00000000:5d5b795a)
+Session           : NetworkCleartext from 0
+User Name         : jalleem
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:08:51 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4700
+	msv :	
+	 [00000003] Primary
+	 * Username : jalleem
+	 * Domain   : NMC
+	 * NTLM     : 069a2203e6d076803c3a67b05d35b631
+	 * SHA1     : 3f71b1debbb237fe58fa51843e7890bda7fc05db
+	tspkg :	
+	wdigest :	
+	 * Username : jalleem
+	 * Domain   : NMC
+	 * Password : JJJJ@1234r
+	kerberos :	
+	 * Username : jalleem
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1561034297 (00000000:5d0b7e39)
+Session           : NetworkCleartext from 0
+User Name         : ehuwair
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:22:05 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4723
+	msv :	
+	 [00000003] Primary
+	 * Username : ehuwair
+	 * Domain   : NMC
+	 * NTLM     : a77a62d196e1ea7259ad68183be7b577
+	 * SHA1     : 1236c5594d40af04332a87ad127ad949a20899fd
+	tspkg :	
+	wdigest :	
+	 * Username : ehuwair
+	 * Domain   : NMC
+	 * Password : Eh@9405556
+	kerberos :	
+	 * Username : ehuwair
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1545102029 (00000000:5c1862cd)
+Session           : NetworkCleartext from 0
+User Name         : Ali.khamis
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 3:56:20 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8130
+	msv :	
+	 [00000003] Primary
+	 * Username : Ali.khamis
+	 * Domain   : NMC
+	 * NTLM     : 23965ae3a11a6fe776797f738fc0961b
+	 * SHA1     : 4e82e15b07a4645d6392fe77152ef8387b5a66e1
+	tspkg :	
+	wdigest :	
+	 * Username : Ali.khamis
+	 * Domain   : NMC
+	 * Password : hkhhpfI1992@
+	kerberos :	
+	 * Username : Ali.khamis
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1372496873 (00000000:51cea3e9)
+Session           : NetworkCleartext from 0
+User Name         : customercareunit
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 5:53:05 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6710
+	msv :	
+	 [00000003] Primary
+	 * Username : customercareunit
+	 * Domain   : NMC
+	 * NTLM     : 0e57eaa15b2f07cc82e5d6d375a8ae21
+	 * SHA1     : b8bf924965673b428834985c2ead570f7e06ee41
+	tspkg :	
+	wdigest :	
+	 * Username : customercareunit
+	 * Domain   : NMC
+	 * Password : ASD@2017
+	kerberos :	
+	 * Username : customercareunit
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1595014782 (00000000:5f11fe7e)
+Session           : NetworkCleartext from 0
+User Name         : smulla
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 11:34:53 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4845
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : 9af1ee6927c0078e25f8a7b2b61af6e7
+	 * SHA1     : 
+	 * RootKey  : eae8127851636d91999acba0323a1f67c9354c03
+	 [00000003] Primary
+	 * Username : smulla
+	 * Domain   : NMC
+	 * NTLM     : 9af1ee6927c0078e25f8a7b2b61af6e7
+	 * SHA1     : eae8127851636d91999acba0323a1f67c9354c03
+	tspkg :	
+	wdigest :	
+	 * Username : smulla
+	 * Domain   : NMC
+	 * Password : 6352676S@s
+	kerberos :	
+	 * Username : smulla
+	 * Domain   : nmc.local
+	 * Password : 6352676S@s
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1588458657 (00000000:5eadf4a1)
+Session           : NetworkCleartext from 0
+User Name         : nisrin.alharmoodi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/12/2018 10:35:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-7018
+	msv :	
+	 [00000003] Primary
+	 * Username : Nisrin.Alharmoodi
+	 * Domain   : NMC
+	 * NTLM     : d487474435d5e15c48fd21bf025304ed
+	 * SHA1     : 85bc14593b551af42c22296263e439b6b890a6df
+	tspkg :	
+	wdigest :	
+	 * Username : Nisrin.Alharmoodi
+	 * Domain   : NMC
+	 * Password : winter@2017
+	kerberos :	
+	 * Username : nisrin.alharmoodi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1575351219 (00000000:5de5f3b3)
+Session           : NetworkCleartext from 0
+User Name         : aalqubaisi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 8:36:40 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4854
+	msv :	
+	 [00000003] Primary
+	 * Username : aalqubaisi
+	 * Domain   : NMC
+	 * NTLM     : c957cc5b7bbbf40409533f399cd3cdcf
+	 * SHA1     : bd4485d2299edaed5315bb19a2c4a4e14fa581aa
+	tspkg :	
+	wdigest :	
+	 * Username : aalqubaisi
+	 * Domain   : NMC
+	 * Password : Alkeby$99
+	kerberos :	
+	 * Username : aalqubaisi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1571266557 (00000000:5da79ffd)
+Session           : NetworkCleartext from 0
+User Name         : salbloushi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 7:56:14 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5064
+	msv :	
+	 [00000003] Primary
+	 * Username : salbloushi
+	 * Domain   : NMC
+	 * NTLM     : 973fee8b9b76059afae80d74b537b20c
+	 * SHA1     : a435d2c5e47645bc560e8145b1e617158402b2e8
+	tspkg :	
+	wdigest :	
+	 * Username : salbloushi
+	 * Domain   : NMC
+	 * Password : sh@123sh1
+	kerberos :	
+	 * Username : salbloushi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1561478118 (00000000:5d1243e6)
+Session           : NetworkCleartext from 0
+User Name         : Alia.Alshamsi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 6:25:14 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5428
+	msv :	
+	 [00000003] Primary
+	 * Username : Alia.Alshamsi
+	 * Domain   : NMC
+	 * NTLM     : aa7a78b63b758eb181e9d00ed22968aa
+	 * SHA1     : 01fa1622b2ff9036fbf2909460df984407faee2f
+	tspkg :	
+	wdigest :	
+	 * Username : Alia.Alshamsi
+	 * Domain   : NMC
+	 * Password : Aamsk@2020
+	kerberos :	
+	 * Username : Alia.Alshamsi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1475200722 (00000000:57edc6d2)
+Session           : NetworkCleartext from 0
+User Name         : rashed.alnuaimi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/12/2018 9:24:49 AM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5371
+	msv :	
+	 [00000003] Primary
+	 * Username : rashed.alnuaimi
+	 * Domain   : NMC
+	 * NTLM     : 3586d3360c76f7e369cf418953f34647
+	 * SHA1     : c29e321426a3534fd93da8549499423efd4ec79d
+	tspkg :	
+	wdigest :	
+	 * Username : rashed.alnuaimi
+	 * Domain   : NMC
+	 * Password : as7020@@
+	kerberos :	
+	 * Username : rashed.alnuaimi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1372565748 (00000000:51cfb0f4)
+Session           : NetworkCleartext from 0
+User Name         : ahannawi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 5:53:41 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-5164
+	msv :	
+	 [00000003] Primary
+	 * Username : ahannawi
+	 * Domain   : NMC
+	 * NTLM     : 0eb8e767811a422329a53099686280fe
+	 * SHA1     : b5ecca3e3c4c400bc59993474ffa72b84d26ed9c
+	tspkg :	
+	wdigest :	
+	 * Username : ahannawi
+	 * Domain   : NMC
+	 * Password : QWaszx@2122
+	kerberos :	
+	 * Username : ahannawi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1372489140 (00000000:51ce85b4)
+Session           : NetworkCleartext from 0
+User Name         : malshamsi
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 5:52:57 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-4710
+	msv :	
+	 [00000003] Primary
+	 * Username : malshamsi
+	 * Domain   : NMC
+	 * NTLM     : aadef9be312b29b9d15f2cce3ee8abd4
+	 * SHA1     : 0980fe550171eb667d99889c1fde6881cdea76ef
+	tspkg :	
+	wdigest :	
+	 * Username : malshamsi
+	 * Domain   : NMC
+	 * Password : 199903257m@
+	kerberos :	
+	 * Username : malshamsi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 1362210297 (00000000:5131adf9)
+Session           : NetworkCleartext from 0
+User Name         : m.elgabali
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/11/2018 4:28:54 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6922
+	msv :	
+	 [00000003] Primary
+	 * Username : m.elgabali
+	 * Domain   : NMC
+	 * NTLM     : 61007424f48e706187e68aa93fe925af
+	 * SHA1     : 28cf077d1546b5a09ad05ecd79dac079c07e5932
+	tspkg :	
+	wdigest :	
+	 * Username : m.elgabali
+	 * Domain   : NMC
+	 * Password : Dell@1001
+	kerberos :	
+	 * Username : m.elgabali
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 955803645 (00000000:38f867fd)
+Session           : NetworkCleartext from 0
+User Name         : eiman.alnuaimi
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/9/2018 12:21:24 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6951
+	msv :	
+	 [00000003] Primary
+	 * Username : eiman.alnuaimi
+	 * Domain   : NMC
+	 * NTLM     : 5b10d13a9b86079b2844477c280e182c
+	 * SHA1     : 6d86daf18a9b9f6e298ad69418bed5fa1c876be7
+	tspkg :	
+	wdigest :	
+	 * Username : eiman.alnuaimi
+	 * Domain   : NMC
+	 * Password : 526912_eman
+	kerberos :	
+	 * Username : eiman.alnuaimi
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 7179327 (00000000:006d8c3f)
+Session           : NetworkCleartext from 0
+User Name         : HealthMailbox2336d8f
+Domain            : NMC
+Logon Server      : AUHDCV01
+Logon Time        : 1/4/2018 1:09:30 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-6619
+	msv :	
+	 [00000003] Primary
+	 * Username : HealthMailbox2336d8f
+	 * Domain   : NMC
+	 * NTLM     : 37b253e62e51e080c0648b809d8406c5
+	 * SHA1     : 46449c6930584340225c1ad673b8a1bb003d0500
+	tspkg :	
+	wdigest :	
+	 * Username : HealthMailbox2336d8f
+	 * Domain   : NMC
+	 * Password : 2k{+kE}i)@%C85eInm%g-^uiHGz*Jk(}MV(-14*]!j7voPn/=:=2SBc[ZAxFhxUhcwF2KYi:#]OtTIg)&.%}HTa%[:ZlNS-2Cu4IF&2.rD;;nS-w2_x&0T3wV6|x7(kx
+	kerberos :	
+	 * Username : HealthMailbox2336d8f
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	

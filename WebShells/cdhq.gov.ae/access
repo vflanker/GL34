@@ -1,0 +1,42 @@
+cdhq
+172.17.220.8
+cdhq\aspxnet
+qwe123QWE!@#
+
+
+
+
+
+
+
+
+
+
+------------------------
+gdnr
+172.17.81.38-- 2008r2
+172.17.81.15 --2012
+172.17.81.11 --2012
+
+
+rakpolice
+172.27.126.181      User Create
+172.27.126.100  
+172.27.126.102
+172.27.126.157
+172.27.126.65    user aspxnet
+rakpolice\mj301253
+
+
+172.27.126.5 2008 r2
+user:rakpolice\erpm:123
+
+
+
+
+nmap --script smb-os-discovery.nse -p445 172.27.126.1
+
+nmap -p 445,3389 172.27.126.1-255 --open
+jail5473\aspxnet
+
+qwe123QWE!@#

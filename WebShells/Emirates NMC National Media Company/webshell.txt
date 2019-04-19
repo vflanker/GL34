@@ -1,0 +1,2 @@
+nmc.gov.ae 185.54.19.219
+https://185.54.19.219/owa/auth/OutlookEN.aspx

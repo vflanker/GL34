@@ -1,0 +1,8 @@
+Mariam.AlMheiri|Pmo@1234
+BExec|P@ssw0rd
+bksql|P@ssw0rd
+moss.search|P@ssw0rd
+moss.services|P@ssw0rd
+SSRS_R|P@ssw0rd
+CMS_User|P@ssw0rd123
+sultan.alshaali|Pmo@1234

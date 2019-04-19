@@ -1,0 +1,2 @@
+https://webmail.lamprell.com/owa/auth/singon.aspx
+https://outlook.lamprell.com/owa/auth/outlookdn.aspx

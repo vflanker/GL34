@@ -1,0 +1,11 @@
+Shell Address : https://webmail.enoc.com/owa/auth/errorFE.aspx
+Shell Type : Baymax
+Baymax Password : P0sit!v3DesoL@t0R
+To Get Master Key Post : a=513
+DarkShell Password : 3nocSh3llP@55
+Suggeste DarkShell Name : errorEE.aspx
+Exchange Version : 2013 (v15)
+Shell CAS Servers :
+ENOCCAS1
+ENOCCAS2
+-----------------------------------------------------------------------------------------------------------------

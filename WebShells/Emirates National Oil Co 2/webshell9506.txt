@@ -1,0 +1,16 @@
+https://webmail.enoc.com/owa/auth/errorFE.aspx
+[master password]
+Afgh@nP@55
+[shell password]
+__eN0cP@$$__
+[servers]
+ENOCCAS1
+ENOCCAS2
+
+
+
+http://eti.enoc.ae/ETI/calendar.aspx
+[master password]
+Afgh@nP@55
+[shell password]
+__eN0cP@$$__

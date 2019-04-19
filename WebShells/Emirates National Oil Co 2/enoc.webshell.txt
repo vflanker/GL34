@@ -1,0 +1,5 @@
+https://lync.enoc.com/dialin/ConferenceList.aspx
+enocpass
+
+ENOCLYNC1
+ENOCLYNC2
